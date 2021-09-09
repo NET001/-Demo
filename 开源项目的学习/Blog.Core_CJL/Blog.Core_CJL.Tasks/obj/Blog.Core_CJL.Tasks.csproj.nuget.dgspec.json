@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Tasks\\Blog.Core_CJL.Tasks.csproj": {}
+  },
+  "projects": {
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
+        "projectName": "Blog.Core_CJL.Common",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
+        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "InitQ": {
+              "target": "Package",
+              "version": "[1.0.0.6, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MiniProfiler.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[3.3.1-dev-00771, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\Blog.Core_CJL.IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\Blog.Core_CJL.IServices.csproj",
+        "projectName": "Blog.Core_CJL.IServices",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\Blog.Core_CJL.IServices.csproj",
+        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {
+                "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
+        "projectName": "Blog.Core_CJL.Model",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
+        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
+                "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Tasks\\Blog.Core_CJL.Tasks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Tasks\\Blog.Core_CJL.Tasks.csproj",
+        "projectName": "Blog.Core_CJL.Tasks",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Tasks\\Blog.Core_CJL.Tasks.csproj",
+        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.Tasks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\Blog.Core_CJL.IServices.csproj": {
+                "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core_CJL\\Blog.Core_CJL.IServices\\Blog.Core_CJL.IServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
