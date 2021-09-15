@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3Nt4wmKthC7SQ3ZQOyRNMMi23KOVSBNeVdVFnTkHCHiaDU/LeXUFdMWr86FuTQ15F8AmitmDoYwRLn1AYxwEQ==",
+  "success": false,
+  "projectFilePath": "D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.Extensions\\Blog.Core.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjl\\.nuget\\packages\\aspnetcoreratelimit\\3.0.5\\aspnetcoreratelimit.3.0.5.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\2.2.0\\microsoft.extensions.caching.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.logging\\2.2.0\\microsoft.extensions.logging.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到项目“D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.Tasks\\Blog.Core.Tasks.csproj”。请检查项目引用是否有效以及项目文件是否存在。",
+      "libraryId": "D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.Tasks\\Blog.Core.Tasks.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到项目“D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.Services\\Blog.Core.Services.csproj”。请检查项目引用是否有效以及项目文件是否存在。",
+      "libraryId": "D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.Services\\Blog.Core.Services.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "找不到项目“D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.EventBus\\Blog.Core.EventBus.csproj”。请检查项目引用是否有效以及项目文件是否存在。",
+      "libraryId": "D:\\document\\Blog.CoreTest\\Blog.CoreTest\\Blog.Core.EventBus\\Blog.Core.EventBus.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

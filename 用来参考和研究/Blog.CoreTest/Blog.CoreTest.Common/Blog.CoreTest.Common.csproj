@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="InitQ" Version="1.0.0.6" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.8.0" />
+
+		<!--automap-->
+		<PackageReference Include="AutoMapper" Version="10.1.1" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+
+		<!--缓存-->
+		<PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="5.0.0" />
+
+		<!--迷你日志-->
+		<PackageReference Include="MiniProfiler.AspNetCore.Mvc" Version="4.2.1" />
+		
+		<!--另外一个日志框架-->
+		<PackageReference Include="Serilog" Version="2.10.0" />
+		<PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+		<PackageReference Include="Serilog.Sinks.RollingFile" Version="3.3.1-dev-00771" />
+		
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Extensions\" />
+	  <Folder Include="HttpRestSharp\" />
+	  <Folder Include="Hubs\" />
+	  <Folder Include="StaticHelper\" />
+	</ItemGroup>
+
+</Project>

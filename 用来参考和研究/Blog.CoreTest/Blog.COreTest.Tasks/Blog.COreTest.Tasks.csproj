@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blog.CoreTest.IServices\Blog.CoreTest.IServices.csproj" />
+	  <!--任务调度-->
+	  <PackageReference Include="Quartz" Version="3.2.3" />
+  </ItemGroup>
+
+</Project>

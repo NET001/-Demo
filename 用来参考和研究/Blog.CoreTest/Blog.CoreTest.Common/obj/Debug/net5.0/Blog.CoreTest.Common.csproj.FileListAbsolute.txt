@@ -1,0 +1,34 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.deps.json
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfoInputs.cache
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfo.cs
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csproj.CoreCompileInputs.cache
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.deps.json
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csproj.AssemblyReference.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfoInputs.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfo.cs
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csproj.CoreCompileInputs.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.pdb

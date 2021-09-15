@@ -1,0 +1,16 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.COreTest.Tasks.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.COreTest.Tasks.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.COreTest.Tasks.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.IServices.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.IServices.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.csproj.CopyComplete
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.COreTest.Tasks\obj\Debug\netcoreapp3.1\Blog.COreTest.Tasks.pdb

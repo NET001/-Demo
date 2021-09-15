@@ -1,0 +1,14 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.IServices.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.IServices.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.IServices.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.csproj.CopyComplete
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.IServices\obj\Debug\netcoreapp3.1\Blog.CoreTest.IServices.pdb

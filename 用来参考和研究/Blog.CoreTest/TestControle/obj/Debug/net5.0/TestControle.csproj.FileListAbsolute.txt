@@ -1,0 +1,16 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.exe
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.runtimeconfig.json
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.runtimeconfig.dev.json
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\ref\TestControle.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\bin\Debug\net5.0\TestControle.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\ref\TestControle.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\TestControle.genruntimeconfig.cache

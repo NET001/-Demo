@@ -1,0 +1,16 @@
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.exe
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.deps.json
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.runtimeconfig.json
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.runtimeconfig.dev.json
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\ref\async_await.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.pdb
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.AssemblyInfoInputs.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.AssemblyInfo.cs
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.csproj.CoreCompileInputs.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\ref\async_await.dll
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.pdb
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.genruntimeconfig.cache
+D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.csproj.AssemblyReference.cache

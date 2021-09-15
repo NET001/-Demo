@@ -1,0 +1,234 @@
+﻿2021-07-13 11:52:33,320| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 11:52:33,344| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 11:52:33,344| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 11:53:40,551| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:53:42,196| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:53:42,808| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:53:43,524| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:24,477| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:25,387| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:25,956| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:28,483| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:28,983| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:29,363| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 11:55:30,104| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 16:26:49,743| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:26:49,756| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:26:49,757| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:35:39,136| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:35:39,146| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:35:39,147| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:44:16,697| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:44:16,708| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:44:16,709| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:47:00,598| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:47:00,610| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:47:00,611| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:48:15,596| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:48:15,607| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:48:15,607| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:48:52,081| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:48:52,092| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:48:52,092| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:50:02,346| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:50:02,358| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:50:02,359| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:50:28,991| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:50:29,007| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:50:29,009| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:52:15,818| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:52:15,829| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:52:15,830| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:53:02,797| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:53:02,809| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:53:02,809| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:54:04,568| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:54:04,589| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:54:04,590| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:54:33,750| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:54:33,767| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:54:33,768| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:55:08,983| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:55:08,993| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:55:08,994| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:55:32,772| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:55:32,783| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:55:32,783| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:56:49,783| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 16:56:49,795| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 16:56:49,796| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 16:57:46,028| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-07-13 17:03:03,616| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was forbidden.
+--------------------------------
+2021-07-13 17:03:18,661| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was forbidden.
+--------------------------------
+2021-07-13 17:05:05,699| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was forbidden.
+--------------------------------
+2021-07-13 17:07:13,956| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 17:07:13,967| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 17:07:13,968| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 17:08:39,954| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 17:08:39,966| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 17:08:39,967| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 17:08:57,532| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 17:08:57,544| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 17:08:57,545| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 17:28:28,393| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 17:28:28,405| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 17:28:28,405| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-07-13 17:36:53,605| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-07-13 17:36:53,619| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-07-13 17:36:53,619| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------

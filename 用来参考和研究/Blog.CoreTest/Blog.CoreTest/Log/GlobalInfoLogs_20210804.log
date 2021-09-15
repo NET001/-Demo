@@ -1,0 +1,42 @@
+﻿2021-08-04 10:17:34,777| INFO Microsoft.Hosting.Lifetime 
+Application started. Press Ctrl+C to shut down.
+--------------------------------
+2021-08-04 10:17:34,813| INFO Microsoft.Hosting.Lifetime 
+Hosting environment: Development
+--------------------------------
+2021-08-04 10:17:34,813| INFO Microsoft.Hosting.Lifetime 
+Content root path: D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest
+--------------------------------
+2021-08-04 12:09:28,384| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 16:11:13,881| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 16:11:13,970| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 18:08:14,269| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 18:15:11,366| INFO Blog.CoreTest.Api.Controllers.BlogController 
+xxxxxxxxxxxxxxxxxxx
+--------------------------------
+2021-08-04 19:49:00,828| INFO Blog.CoreTest.Api.Controllers.BlogController 
+xxxxxxxxxxxxxxxxxxx
+--------------------------------
+2021-08-04 19:49:13,832| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 20:52:35,698| INFO Blog.CoreTest.Extensions.Authorizations.Policys.ApiResponseHandler 
+AuthenticationScheme: ApiResponseHandler was challenged.
+--------------------------------
+2021-08-04 21:06:20,684| INFO Blog.CoreTest.Api.Controllers.BlogController 
+xxxxxxxxxxxxxxxxxxx
+--------------------------------
+2021-08-04 21:06:43,892| INFO Blog.CoreTest.Api.Controllers.BlogController 
+xxxxxxxxxxxxxxxxxxx
+--------------------------------
+2021-08-04 21:06:47,998| INFO Blog.CoreTest.Api.Controllers.BlogController 
+xxxxxxxxxxxxxxxxxxx
+--------------------------------

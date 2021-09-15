@@ -1,0 +1,12 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.csproj.CopyComplete
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\netcoreapp3.1\Blog.CoreTest.Model.pdb

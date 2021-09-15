@@ -1,0 +1,14 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Repository.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Repository.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Repository.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Model.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.csproj.CopyComplete
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Repository\obj\Debug\netcoreapp3.1\Blog.CoreTest.Repository.pdb

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+	  <DocumentationFile>D:\document\net core\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model.xml</DocumentationFile>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="sqlSugarCore" Version="5.0.2.6" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Blog.CoreTest.Common\Blog.CoreTest.Common.csproj" />
+	</ItemGroup>
+
+</Project>

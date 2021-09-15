@@ -1,0 +1,15 @@
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.exe
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.deps.json
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.runtimeconfig.json
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\ref\Test1.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\bin\Debug\net5.0\Test1.pdb
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\ref\Test1.dll
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.pdb
+D:\document\net core\Blog.CoreTest\Blog.CoreTest\Test1\obj\Debug\net5.0\Test1.genruntimeconfig.cache

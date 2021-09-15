@@ -1,0 +1,9 @@
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.deps.json
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.csproj.AssemblyReference.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.AssemblyInfoInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.AssemblyInfo.cs
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.csproj.CoreCompileInputs.cache
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.dll
+D:\document\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\netcoreapp3.1\Blog.CoreTest.Common.pdb

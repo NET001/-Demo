@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blog.CoreTest.IServices\Blog.CoreTest.IServices.csproj" />
+    <ProjectReference Include="..\Blog.CoreTest.Repository\Blog.CoreTest.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
