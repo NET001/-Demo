@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfBl45HUEuFeQ/9KObiBjhFbDjPvmmVrey4ShQiKlh+qeSxZO3542o9R7EGN3U3vxZ2KKz839zvXiZuXpTjDeg==",
+  "success": true,
+  "projectFilePath": "D:\\document\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cjl\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cjl\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
