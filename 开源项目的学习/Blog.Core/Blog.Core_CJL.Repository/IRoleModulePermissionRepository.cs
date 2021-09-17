@@ -1,4 +1,5 @@
-﻿using Blog.Core_CJL.Repository.BASE;
+﻿using Blog.Core_CJL.Model.Models;
+using Blog.Core_CJL.Repository.BASE;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
