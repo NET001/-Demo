@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Blog.Core_CJL.Repository.BASE;
+using Blog.Core_CJL.Repository.UnitOfWork;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

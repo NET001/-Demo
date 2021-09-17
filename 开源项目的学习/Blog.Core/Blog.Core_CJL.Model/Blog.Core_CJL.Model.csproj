@@ -6,6 +6,9 @@
 	<ItemGroup>
 		<ProjectReference Include="..\Blog.Core_CJL.Common\Blog.Core_CJL.Common.csproj" />
 	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="sqlSugarCore" Version="5.0.2.6" />
+  </ItemGroup>
 	<ItemGroup>
 		<!--ORM框架-->
 		<PackageReference Include="sqlSugarCore" Version="5.0.2.6" />

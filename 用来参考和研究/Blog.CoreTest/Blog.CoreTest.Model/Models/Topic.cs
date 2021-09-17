@@ -3,9 +3,10 @@ using System;
 using System.Collections.Generic;
 
 namespace Blog.CoreTest.Model.Models
-{/// <summary>
- /// Tibug 类别
- /// </summary>
+{
+    /// <summary>
+    /// Tibug 类别
+    /// </summary>
     public class Topic : Blog.CoreTest.Model.Models.RootTKey.RootEntityTkey<int>
     {
         public Topic()

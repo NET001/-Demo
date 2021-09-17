@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eHjN8BQ+ugE5vjOp9vzNb6HdsgxxQW4Ro5/aZAVboAMoSUceyLNPOc5ZlQ4Xl0L/nPVh6Gq8Djklo9LxZ+udqA==",
+  "dgSpecHash": "py4W7jxhqVAtfyx8y3FxgYnxauDu0H8h7DrAOnFUfTIoF02YozScIvacXXhOGaxpqkSwwx8r65dhPpZvfLxlFg==",
   "success": true,
-  "projectFilePath": "D:\\document\\net core\\前后端分离管理系统\\BlogCore\\Blog.CoreTest\\Blog.CoreTest\\async_await\\async_await.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\async_await\\async_await.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
