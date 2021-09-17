@@ -9,12 +9,20 @@ namespace AutoMapper_CJL.ConsoleApp
     {
         static void Main(string[] args)
         {
-            new MapperConfiguration(cfg =>
+            var config = new MapperConfiguration(cfg =>
             {
+                //配置映射关系
+                cfg.CreateMap<DataEntity, DataDto>();
+                //指定配置类
                 cfg.AddProfile<CustomProfile>();
-            });
+                //扫描当前的程序集
+                cfg.AddMaps(System.AppDomain.CurrentDomain.GetAssemblies());
+            }
+            );
+            var mapper = config.CreateMapper();
             DataDto ddto = new DataDto() { Guid = "123" };
             DataEntity dentity = new DataEntity() { Id = "321" };
+            DataDto dto = mapper.Map<DataDto>(dentity);
         }
     }
 }
