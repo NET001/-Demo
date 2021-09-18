@@ -1,0 +1,10 @@
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.exe.config
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.exe
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.pdb
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.Form1.resources
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.Properties.Resources.resources
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.GenerateResource.cache
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.exe
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.pdb

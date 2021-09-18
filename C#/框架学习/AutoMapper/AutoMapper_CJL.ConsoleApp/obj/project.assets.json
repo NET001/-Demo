@@ -182,23 +182,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cjl\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ganwe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\document\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+      "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
       "projectName": "AutoMapper_CJL.ConsoleApp",
-      "projectPath": "D:\\document\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
-      "outputPath": "D:\\document\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\obj\\",
+      "projectPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+      "outputPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -206,6 +207,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\LocalNuget": {},
+        "http://nuget.ganweisoft.net": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -244,7 +247,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
