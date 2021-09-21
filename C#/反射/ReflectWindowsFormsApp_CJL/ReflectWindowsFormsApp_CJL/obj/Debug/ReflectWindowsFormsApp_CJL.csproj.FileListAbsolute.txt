@@ -8,3 +8,16 @@ E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_C
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.CoreCompileInputs.cache
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.exe
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.exe.config
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.exe
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectWindowsFormsApp_CJL.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.Form1.resources
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.Properties.Resources.resources
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.GenerateResource.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.exe
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectInterface.dll
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\ReflectInterface.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.AssemblyReference.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\obj\Debug\ReflectWindowsFormsApp_CJL.csproj.CopyComplete

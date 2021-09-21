@@ -1,0 +1,5 @@
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectInterface\bin\Debug\ReflectInterface.dll
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectInterface\bin\Debug\ReflectInterface.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectInterface\obj\Debug\ReflectInterface.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectInterface\obj\Debug\ReflectInterface.dll
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectInterface\obj\Debug\ReflectInterface.pdb

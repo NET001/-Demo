@@ -31,93 +31,38 @@ namespace ReflectWindowsFormsApp_CJL
         {
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.工具ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.工具栏1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.工具栏2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.栏位ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.栏位ToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.栏位ToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(12, 39);
+            this.richTextBox1.Location = new System.Drawing.Point(9, 31);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(776, 399);
+            this.richTextBox1.Size = new System.Drawing.Size(583, 320);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
             // menuStrip1
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.工具ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(600, 24);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
-            // 
-            // 工具ToolStripMenuItem
-            // 
-            this.工具ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.工具栏1ToolStripMenuItem,
-            this.工具栏2ToolStripMenuItem});
-            this.工具ToolStripMenuItem.Name = "工具ToolStripMenuItem";
-            this.工具ToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
-            this.工具ToolStripMenuItem.Text = "工具";
-            // 
-            // 工具栏1ToolStripMenuItem
-            // 
-            this.工具栏1ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.栏位ToolStripMenuItem,
-            this.栏位ToolStripMenuItem1});
-            this.工具栏1ToolStripMenuItem.Name = "工具栏1ToolStripMenuItem";
-            this.工具栏1ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.工具栏1ToolStripMenuItem.Text = "工具栏1";
-            this.工具栏1ToolStripMenuItem.Click += new System.EventHandler(this.工具栏1ToolStripMenuItem_Click);
-            // 
-            // 工具栏2ToolStripMenuItem
-            // 
-            this.工具栏2ToolStripMenuItem.Name = "工具栏2ToolStripMenuItem";
-            this.工具栏2ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.工具栏2ToolStripMenuItem.Text = "工具栏2";
-            this.工具栏2ToolStripMenuItem.Click += new System.EventHandler(this.工具栏1ToolStripMenuItem_Click);
-            // 
-            // 栏位ToolStripMenuItem
-            // 
-            this.栏位ToolStripMenuItem.Name = "栏位ToolStripMenuItem";
-            this.栏位ToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.栏位ToolStripMenuItem.Text = "栏位";
-            // 
-            // 栏位ToolStripMenuItem1
-            // 
-            this.栏位ToolStripMenuItem1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.栏位ToolStripMenuItem2});
-            this.栏位ToolStripMenuItem1.Name = "栏位ToolStripMenuItem1";
-            this.栏位ToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
-            this.栏位ToolStripMenuItem1.Text = "栏位";
-            // 
-            // 栏位ToolStripMenuItem2
-            // 
-            this.栏位ToolStripMenuItem2.Name = "栏位ToolStripMenuItem2";
-            this.栏位ToolStripMenuItem2.Size = new System.Drawing.Size(224, 26);
-            this.栏位ToolStripMenuItem2.Text = "栏位";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 360);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -127,12 +72,6 @@ namespace ReflectWindowsFormsApp_CJL
 
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem 工具ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 工具栏1ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 工具栏2ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 栏位ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 栏位ToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem 栏位ToolStripMenuItem2;
     }
 }
 
