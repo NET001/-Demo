@@ -45,7 +45,21 @@ namespace ReflectExtend_CJL
 
         public void Operation(RichTextBox rtb)
         {
+            new Form1().Show();
+        }
+    }
+    /// <summary>
+    /// 目录结构生成
+    /// </summary>
+    public class DirectoryStructureCreateMenuTool : IMenuTool
+    {
+        public string FatherText => "工具";
 
+        public string Text => "生成目录结构";
+
+        public void Operation(RichTextBox rtb)
+        {
+            new OpenFileDialog().ShowDialog();
         }
     }
 }
