@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<localizationDictionary culture="zh-CN">
+  <texts>
+    <text name="InternalServerError" value="出现意外错误，请刷新或重试！" />
+    <text name="ValidationError" value="请求无效，请重试或联系管理员！" />
+    <text name="AreYouSure" value="你确定吗?" />
+    <text name="Cancel" value="取消" />
+    <text name="Yes" value="确定" />
+    <text name="ValidationNarrativeTitle" value="检测到以下验证错误。" />
+    <text name="DefaultError" value="出现错误，请刷新重试或联系管理员！" />
+    <text name="DefaultErrorDetail" value="服务器未发送错误详情。" />
+    <text name="DefaultError401" value="您未通过身份验证！" />
+    <text name="DefaultErrorDetail401" value="您必须经过身份验证（登录）才能执行此操作。" />
+    <text name="DefaultError403" value="没有权限！" />
+    <text name="DefaultErrorDetail403" value="操作不允许，没有权限！" />
+    <text name="DefaultError404" value="找不到资源！" />
+    <text name="DefaultErrorDetail404" value="在服务器上找不到请求的资源。" />
+    <text name="EntityNotFound" value="Id为 {1} 的数据并不存在，请检查!" />
+    <text name="EntityNotFoundDefault" value="数据不存在，请检查!" />
+  </texts>
+</localizationDictionary>

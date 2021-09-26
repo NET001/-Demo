@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\..\common.props"></Import>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>Magicodes.Admin.Unity</AssemblyName>
+    <RootNamespace>Magicodes.Admin.Unity</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Magicodes.Storage.AliyunOss.Core" Version="1.0.0" />
+    <PackageReference Include="Magicodes.Storage.Core" Version="2.0.1" />
+    <PackageReference Include="Magicodes.Storage.Local.Core" Version="2.0.2" />
+    <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\core\Admin.Core.Custom\Magicodes.Admin.Core.Custom.csproj" />
+    <ProjectReference Include="..\..\core\Admin.Core\Magicodes.Admin.Core.csproj" />
+  </ItemGroup>
+</Project>

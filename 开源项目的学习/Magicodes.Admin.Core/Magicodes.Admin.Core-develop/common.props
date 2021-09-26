@@ -1,0 +1,23 @@
+<Project>
+  <PropertyGroup>
+    <Version>7.0.0</Version>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RepositoryUrl>https://gitee.com/xl_wenqiang/Magicodes.Admin.Core</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Description>
+      官方网址：http://xin-lai.com
+      文档地址：https://docs.xin-lai.com
+      开源库地址:https://github.com/xin-lai
+      博客地址：http://www.cnblogs.com/codelove/
+      交流QQ群：85318032
+      小店地址：https://shop113059108.taobao.com/
+    </Description>
+    <Company>湖南心莱信息科技有限公司</Company>
+    <Authors>雪雁</Authors>
+    <PackageProjectUrl>http://www.cnblogs.com/codelove/</PackageProjectUrl>
+  </PropertyGroup>
+</Project>

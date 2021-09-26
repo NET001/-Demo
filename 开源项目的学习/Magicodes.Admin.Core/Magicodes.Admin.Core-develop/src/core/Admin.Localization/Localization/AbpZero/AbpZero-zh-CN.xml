@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<localizationDictionary culture="zh-CN">
+  <texts>
+    <text name="Identity.DuplicateUserName" value="用户名重复：{0}!" />
+    <text name="Identity.DuplicateEmail" value="邮箱重复：{0}!" />
+  </texts>
+</localizationDictionary>

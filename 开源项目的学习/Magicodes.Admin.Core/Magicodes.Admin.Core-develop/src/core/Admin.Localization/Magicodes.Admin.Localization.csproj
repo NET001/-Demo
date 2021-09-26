@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\..\common.props"></Import>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Localization\AbpWeb\Abp-zh-CN.xml" />
+    <None Remove="Localization\AbpZero\AbpZero-zh-CN.xml" />
+    <None Remove="Localization\Abp\Abp-zh-CN.xml" />
+    <None Remove="Localization\Admin\Admin-zh-CN.xml" />
+    <None Remove="Localization\Admin\Admin.xml" />
+    <None Remove="Localization\Admin\READ_ME.txt" />
+    <None Remove="Localization\App\App-zh-CN.xml" />
+    <None Remove="Localization\App\App.xml" />
+    <None Remove="Localization\App\READ_ME.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Localization\AbpWeb\Abp-zh-CN.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\AbpZero\AbpZero-zh-CN.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\Abp\Abp-zh-CN.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\Admin\Admin-zh-CN.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\Admin\Admin.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\Admin\READ_ME.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\App\App-zh-CN.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\App\App.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Localization\App\READ_ME.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Abp.AspNetZeroCore" Version="1.2.2" />
+    <PackageReference Include="Abp.ZeroCore.IdentityServer4.EntityFrameworkCore" Version="4.6.0" />
+  </ItemGroup>
+
+
+
+
+</Project>
