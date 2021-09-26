@@ -7,3 +7,12 @@ E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.exe
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.pdb
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.Form1.resources
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\bin\Debug\ReplacAllWindowsFormsApp.exe.config
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\bin\Debug\ReplacAllWindowsFormsApp.exe
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\bin\Debug\ReplacAllWindowsFormsApp.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.Form1.resources
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.Properties.Resources.resources
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.csproj.GenerateResource.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.exe
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.pdb
