@@ -1,0 +1,12 @@
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.exe
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.dll
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\bin\Debug\netcoreapp3.1\SimpleFactory_CJL.pdb
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.dll
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.pdb
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.genruntimeconfig.cache

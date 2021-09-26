@@ -37,7 +37,7 @@ namespace ReflectWindowsFormsApp_CJL
                 //获取dll程序集
                 foreach (var item in files)
                 {
-                    Assembly assembly = Assembly.LoadFile(item);
+                    Assembly assembly = Assembly.LoadFrom(item);
                     //获取其中的类
                     var types = assembly.GetTypes();
                     foreach (var type in types)

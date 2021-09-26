@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SuperSocket" Version="2.0.0-beta.10" />
+    <PackageReference Include="SuperSocket.Channel" Version="2.0.0-beta.10" />
+    <PackageReference Include="SuperSocket.Primitives" Version="2.0.0-beta.10" />
+    <PackageReference Include="SuperSocket.ProtoBase" Version="2.0.0-beta.10" />
+    <PackageReference Include="SuperSocket.Server" Version="2.0.0-beta.10" />
+  </ItemGroup>
+</Project>

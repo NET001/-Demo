@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory_CJL", "SimpleFactory_CJL\SimpleFactory_CJL.csproj", "{8951B63F-9B7A-4F53-A25D-D2D4E810CA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8951B63F-9B7A-4F53-A25D-D2D4E810CA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8951B63F-9B7A-4F53-A25D-D2D4E810CA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8951B63F-9B7A-4F53-A25D-D2D4E810CA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8951B63F-9B7A-4F53-A25D-D2D4E810CA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E895A2B-7F04-4573-874E-D1819FFC828C}
+	EndGlobalSection
+EndGlobal

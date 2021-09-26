@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectInterface", "Reflect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplacAllWindowsFormsApp", "ReplacAllWindowsFormsApp\ReplacAllWindowsFormsApp.csproj", "{929C4252-5D79-49A1-B0C6-2C234BE8698F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectExtendCommon_CJL", "ReflectExtendCommon_CJL\ReflectExtendCommon_CJL.csproj", "{571501A3-65F8-429E-9272-1F828EAE345B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{929C4252-5D79-49A1-B0C6-2C234BE8698F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929C4252-5D79-49A1-B0C6-2C234BE8698F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929C4252-5D79-49A1-B0C6-2C234BE8698F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{571501A3-65F8-429E-9272-1F828EAE345B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{571501A3-65F8-429E-9272-1F828EAE345B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{571501A3-65F8-429E-9272-1F828EAE345B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{571501A3-65F8-429E-9272-1F828EAE345B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -96,5 +96,10 @@ namespace ReplacAllWindowsFormsApp
                 sw.WriteLine();
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

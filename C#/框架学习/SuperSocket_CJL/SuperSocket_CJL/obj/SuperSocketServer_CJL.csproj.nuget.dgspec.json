@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket_CJL\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj": {}
+  },
+  "projects": {
+    "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket_CJL\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket_CJL\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj",
+        "projectName": "SuperSocketServer_CJL",
+        "projectPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket_CJL\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj",
+        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket_CJL\\SuperSocket_CJL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\LocalNuget": {},
+          "http://nuget.ganweisoft.net": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SuperSocket": {
+              "target": "Package",
+              "version": "[2.0.0-beta.10, )"
+            },
+            "SuperSocket.Channel": {
+              "target": "Package",
+              "version": "[2.0.0-beta.10, )"
+            },
+            "SuperSocket.Primitives": {
+              "target": "Package",
+              "version": "[2.0.0-beta.10, )"
+            },
+            "SuperSocket.ProtoBase": {
+              "target": "Package",
+              "version": "[2.0.0-beta.10, )"
+            },
+            "SuperSocket.Server": {
+              "target": "Package",
+              "version": "[2.0.0-beta.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

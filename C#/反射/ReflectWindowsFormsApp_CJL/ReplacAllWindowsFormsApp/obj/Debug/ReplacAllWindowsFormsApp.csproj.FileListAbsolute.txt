@@ -6,4 +6,4 @@ E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.csproj.CoreCompileInputs.cache
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.exe
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.pdb
-E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReplacAllWindowsFormsApp\obj\Debug\ReplacAllWindowsFormsApp.Form1.resources
