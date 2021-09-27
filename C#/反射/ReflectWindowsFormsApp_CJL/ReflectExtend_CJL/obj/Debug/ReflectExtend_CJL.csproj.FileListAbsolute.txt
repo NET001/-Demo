@@ -21,3 +21,5 @@ E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectExtend_CJL\bin\De
 E:\CJL_学习\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectExtend_CJL\bin\Debug\ReflectExtendCommon_CJL.pdb
 D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\Extend\ReflectExtend_CJL.dll
 D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectWindowsFormsApp_CJL\bin\Debug\Extend\ReflectExtend_CJL.pdb
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectExtend_CJL\obj\Debug\ReflectExtend_CJL.csproj.GenerateResource.cache
+D:\document\Dome\C#\反射\ReflectWindowsFormsApp_CJL\ReflectExtend_CJL\obj\Debug\ReflectExtend_CJL.StringReplaceForm.resources

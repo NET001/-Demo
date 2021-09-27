@@ -16,7 +16,7 @@ namespace ReflectExtend_CJL
 
         public void Operation(RichTextBox rtb)
         {
-            throw new NotImplementedException();
+            new StringReplaceForm(rtb).Show();
         }
     }
 }

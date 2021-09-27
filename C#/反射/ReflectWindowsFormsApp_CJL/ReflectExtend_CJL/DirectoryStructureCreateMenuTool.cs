@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace ReflectExtend_CJL
 {  /// <summary>
@@ -28,8 +29,12 @@ namespace ReflectExtend_CJL
             {
                 string foldPath = dialog.SelectedPath;
                 rtb.Text = "";
-
-                director(foldPath, rtb, 0);
+                Task.Run(() =>
+                {
+                    Control.CheckForIllegalCrossThreadCalls = false;
+                    director(foldPath, rtb, 0);
+                    Control.CheckForIllegalCrossThreadCalls = true;
+                });
             }
         }
         public void director(string dirs, RichTextBox rtb, int tier)

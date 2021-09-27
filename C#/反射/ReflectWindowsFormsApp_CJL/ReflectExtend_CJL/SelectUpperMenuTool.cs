@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace ReflectExtend_CJL
 {
-    class SelectUpperMenuTool : IMenuTool
+    public class SelectUpperMenuTool : IMenuTool
     {
         public string FatherText => "工具";
 
