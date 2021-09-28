@@ -1,0 +1,13 @@
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.exe
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.deps.json
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.runtimeconfig.json
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.dll
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.pdb
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.dll
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.pdb
+E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\bin\Debug\CJLNote.exe.config
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\bin\Debug\CJLNote.exe
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\bin\Debug\CJLNote.pdb
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\bin\Debug\CJLNoteInterface.dll
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\bin\Debug\CJLNoteInterface.pdb
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.NoteMain.resources
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.Properties.Resources.resources
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.csproj.GenerateResource.cache
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.csproj.CopyComplete
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.exe
+E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNote\obj\Debug\CJLNote.pdb
