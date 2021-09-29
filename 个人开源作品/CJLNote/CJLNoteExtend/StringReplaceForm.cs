@@ -23,8 +23,7 @@ namespace CJLNoteExtend
         }
         private void btnReplace_Click(object sender, EventArgs e)
         {
-            rtb.SelectAll();
-            rtb.AppendText(Regex.Replace(rtb.Text, rtbQuery.Text, rtbReplace.Text));
+            rtb.Text = Regex.Replace(rtb.Text, rtbQuery.Text, rtbReplace.Text);
         }
     }
 }
