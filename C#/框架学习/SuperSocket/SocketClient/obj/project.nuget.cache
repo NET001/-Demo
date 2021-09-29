@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N33FRqQ2xzasvMFUCp84oyWPyMnyTAS3YikBzQtH0eO2iGMf1s9sYx7rT+qCnv47+qJh++1Sgmcrf11OsvwyJw==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
