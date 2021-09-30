@@ -10,3 +10,4 @@ E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFact
 E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.dll
 E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.pdb
 E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\设计模式\1简单工厂模式\SimpleFactory_CJL\SimpleFactory_CJL\obj\Debug\netcoreapp3.1\SimpleFactory_CJL.csprojAssemblyReference.cache

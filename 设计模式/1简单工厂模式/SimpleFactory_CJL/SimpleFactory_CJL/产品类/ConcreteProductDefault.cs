@@ -4,6 +4,9 @@ using System.Text;
 
 namespace SimpleFactory_CJL
 {
+    /// <summary>
+    /// 默认
+    /// </summary>
     public class ConcreteProductDefault : IProduct
     {
         public ConcreteProductDefault()

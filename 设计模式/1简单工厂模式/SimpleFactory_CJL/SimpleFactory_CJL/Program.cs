@@ -15,10 +15,10 @@ namespace SimpleFactory_CJL
                 simpleFactory.GetProduct(),
             };
             //执行方法,对于初始化的工作主要交给了工厂类,Main方法只通过了简单的逻辑判断就获得了对象的实例
-            products.ForEach((IProduct product) =>
+            foreach (var product in products)
             {
                 product.Operation();
-            });
+            }
             Console.ReadKey();
         }
     }

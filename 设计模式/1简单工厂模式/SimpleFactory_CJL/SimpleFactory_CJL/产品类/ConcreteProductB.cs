@@ -4,6 +4,9 @@ using System.Text;
 
 namespace SimpleFactory_CJL
 {
+    /// <summary>
+    /// B号产品
+    /// </summary>
     public class ConcreteProductB : IProduct
     {
         public ConcreteProductB(string name)
