@@ -1,0 +1,8 @@
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\bin\Debug\netcoreapp3.1\ReflectObject.deps.json
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\bin\Debug\netcoreapp3.1\ReflectObject.dll
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\bin\Debug\netcoreapp3.1\ReflectObject.pdb
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\obj\Debug\netcoreapp3.1\ReflectObject.AssemblyInfoInputs.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\obj\Debug\netcoreapp3.1\ReflectObject.AssemblyInfo.cs
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\obj\Debug\netcoreapp3.1\ReflectObject.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\obj\Debug\netcoreapp3.1\ReflectObject.dll
+D:\document\Dome\C#\反射\ReflectTest\ReflectObject\obj\Debug\netcoreapp3.1\ReflectObject.pdb

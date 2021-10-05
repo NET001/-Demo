@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ReflectTest/1.0.0": {
+        "dependencies": {
+          "ReflectObject": "1.0.0"
+        },
+        "runtime": {
+          "ReflectTest.dll": {}
+        }
+      },
+      "ReflectObject/1.0.0": {
+        "runtime": {
+          "ReflectObject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReflectObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

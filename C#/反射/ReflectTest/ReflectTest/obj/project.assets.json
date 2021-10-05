@@ -1,31 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ReflectObject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ReflectObject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReflectObject.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReflectObject/1.0.0": {
+      "type": "project",
+      "path": "../ReflectObject/ReflectObject.csproj",
+      "msbuildProject": "../ReflectObject/ReflectObject.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ReflectObject >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\ganwe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cjl\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
+      "projectUniqueName": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
       "projectName": "ReflectTest",
-      "projectPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
-      "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-      "outputPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\obj\\",
+      "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
+      "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+      "outputPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,14 +51,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "E:\\LocalNuget": {},
-        "http://nuget.ganweisoft.net": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj": {
+              "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -67,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

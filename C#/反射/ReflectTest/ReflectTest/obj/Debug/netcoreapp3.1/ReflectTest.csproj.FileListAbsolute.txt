@@ -1,0 +1,16 @@
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.exe
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.deps.json
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.runtimeconfig.json
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.runtimeconfig.dev.json
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.dll
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectTest.pdb
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectObject.dll
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\ReflectObject.pdb
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.csproj.AssemblyReference.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.AssemblyInfoInputs.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.AssemblyInfo.cs
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.csproj.CopyComplete
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.dll
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.pdb
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.genruntimeconfig.cache
