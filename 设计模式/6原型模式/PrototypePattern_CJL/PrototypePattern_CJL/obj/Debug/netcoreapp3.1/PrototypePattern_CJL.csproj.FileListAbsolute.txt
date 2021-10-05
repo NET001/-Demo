@@ -1,0 +1,13 @@
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.exe
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.deps.json
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.runtimeconfig.json
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.runtimeconfig.dev.json
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.dll
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.pdb
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.csproj.AssemblyReference.cache
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.AssemblyInfoInputs.cache
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.AssemblyInfo.cs
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.csproj.CoreCompileInputs.cache
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.dll
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.pdb
+C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.genruntimeconfig.cache
