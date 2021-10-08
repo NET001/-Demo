@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ReflectObject/1.0.0": {
+        "dependencies": {
+          "ReflectObject2": "1.0.0"
+        },
         "runtime": {
           "ReflectObject.dll": {}
+        }
+      },
+      "ReflectObject2/1.0.0": {
+        "runtime": {
+          "ReflectObject2.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ReflectObject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReflectObject2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
