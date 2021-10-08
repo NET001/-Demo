@@ -10,7 +10,7 @@ D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\Refle
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.AssemblyInfoInputs.cache
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.AssemblyInfo.cs
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.csproj.CoreCompileInputs.cache
-D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.csproj.CopyComplete
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.dll
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.pdb
 D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.genruntimeconfig.cache
+D:\document\Dome\C#\反射\ReflectTest\ReflectTest\obj\Debug\netcoreapp3.1\ReflectTest.GeneratedMSBuildEditorConfig.editorconfig

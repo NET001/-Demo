@@ -10,14 +10,15 @@
         "projectUniqueName": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
         "projectName": "ReflectObject",
         "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
-        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
         "outputPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -67,14 +68,15 @@
         "projectUniqueName": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
         "projectName": "ReflectTest",
         "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
-        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
         "outputPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -118,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
