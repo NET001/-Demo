@@ -1,0 +1,9 @@
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\bin\Debug\netcoreapp3.1\ReflectObject2.deps.json
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\bin\Debug\netcoreapp3.1\ReflectObject2.dll
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\bin\Debug\netcoreapp3.1\ReflectObject2.pdb
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.dll
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.pdb
+E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectObjet2\obj\Debug\netcoreapp3.1\ReflectObject2.csprojAssemblyReference.cache

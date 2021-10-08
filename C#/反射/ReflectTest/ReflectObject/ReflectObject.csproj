@@ -4,4 +4,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>E:\CJL_学习\Dome\C#\反射\ReflectTest\ReflectTest\bin\Debug\netcoreapp3.1\extend\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReflectObjet2\ReflectObject2.csproj" />
+  </ItemGroup>
+
 </Project>

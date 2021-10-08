@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ReflectObject
+namespace ReflectObject2
 {
-    public class TestObject
+    public class TestObject1
     {
         public int Property1 { get; set; }
         public string Property2 { get; set; }
