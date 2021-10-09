@@ -3,4 +3,3 @@ E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNoteInterface\bin\Debug\CJLNote
 E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNoteInterface\obj\Debug\CJLNoteInterface.csproj.CoreCompileInputs.cache
 E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNoteInterface\obj\Debug\CJLNoteInterface.dll
 E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNoteInterface\obj\Debug\CJLNoteInterface.pdb
-E:\CJL_学习\Dome\个人开源作品\CJLNote\CJLNoteInterface\obj\Debug\CJLNoteInterface.csprojAssemblyReference.cache

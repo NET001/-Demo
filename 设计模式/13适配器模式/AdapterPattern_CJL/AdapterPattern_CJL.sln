@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern_CJL", "AdapterPattern_CJL\AdapterPattern_CJL.csproj", "{129DF89A-221E-4E45-99DC-3E646D8FB822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129DF89A-221E-4E45-99DC-3E646D8FB822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129DF89A-221E-4E45-99DC-3E646D8FB822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129DF89A-221E-4E45-99DC-3E646D8FB822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129DF89A-221E-4E45-99DC-3E646D8FB822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F933A2-8001-4428-8939-00AE278CE21B}
+	EndGlobalSection
+EndGlobal

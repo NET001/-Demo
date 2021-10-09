@@ -1,0 +1,16 @@
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\gRPCServer.exe.config
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\gRPCServer.exe
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\gRPCServer.pdb
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\Google.Protobuf.dll
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\Grpc.Core.dll
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\gRPCDemo.dll
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\System.Interactive.Async.dll
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\gRPCDemo.pdb
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\Google.Protobuf.xml
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\Grpc.Core.xml
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\bin\Debug\System.Interactive.Async.xml
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\obj\Debug\gRPCServer.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\obj\Debug\gRPCServer.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\obj\Debug\gRPCServer.csproj.CopyComplete
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\obj\Debug\gRPCServer.exe
+E:\CJL_学习\Dome\用来参考和研究\gRPCDemo\gRPCServer\obj\Debug\gRPCServer.pdb

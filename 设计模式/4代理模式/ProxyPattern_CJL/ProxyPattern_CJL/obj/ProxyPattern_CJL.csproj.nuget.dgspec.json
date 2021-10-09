@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj": {}
+    "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj": {}
   },
   "projects": {
-    "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj": {
+    "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
         "projectName": "ProxyPattern_CJL",
-        "projectPath": "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
-        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
-        "outputPath": "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\obj\\",
+        "projectPath": "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
+        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\LocalNuget": {},
+          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

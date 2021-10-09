@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DirectoryStructureCreateMenuTool.cs" />
+    <Compile Include="ExtractFieldMenuTool.cs" />
     <Compile Include="StringReplaceForm.cs">
       <SubType>Form</SubType>
     </Compile>

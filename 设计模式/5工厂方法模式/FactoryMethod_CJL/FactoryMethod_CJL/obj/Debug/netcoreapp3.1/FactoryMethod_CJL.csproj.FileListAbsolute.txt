@@ -1,0 +1,13 @@
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.exe
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.dll
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\bin\Debug\netcoreapp3.1\FactoryMethod_CJL.pdb
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.dll
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.pdb
+E:\CJL_学习\Dome\设计模式\5工厂方法模式\FactoryMethod_CJL\FactoryMethod_CJL\obj\Debug\netcoreapp3.1\FactoryMethod_CJL.genruntimeconfig.cache
