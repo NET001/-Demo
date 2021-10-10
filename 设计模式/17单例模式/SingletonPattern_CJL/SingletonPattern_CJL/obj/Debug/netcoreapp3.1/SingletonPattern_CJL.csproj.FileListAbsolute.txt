@@ -1,0 +1,13 @@
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.exe
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.deps.json
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.runtimeconfig.json
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.runtimeconfig.dev.json
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.dll
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.AssemblyInfoInputs.cache
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.AssemblyInfo.cs
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.csproj.CoreCompileInputs.cache
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.dll
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.genruntimeconfig.cache

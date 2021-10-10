@@ -1,0 +1,14 @@
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.exe
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.deps.json
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.runtimeconfig.json
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.runtimeconfig.dev.json
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.dll
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\bin\Debug\netcoreapp3.1\Bridge_CJL.pdb
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.csproj.AssemblyReference.cache
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.AssemblyInfoInputs.cache
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.AssemblyInfo.cs
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.csproj.CoreCompileInputs.cache
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.dll
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.pdb
+D:\document\Dome\设计模式\18桥接模式\Bridge_CJL\Bridge_CJL\obj\Debug\netcoreapp3.1\Bridge_CJL.genruntimeconfig.cache
