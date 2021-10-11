@@ -34,27 +34,37 @@ namespace CJLNoteExtend
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.rtbReplace = new System.Windows.Forms.RichTextBox();
             this.btnReplace = new System.Windows.Forms.Button();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.btnSelect = new System.Windows.Forms.Button();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.rtbSelect = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // rtbQuery
             // 
-            this.rtbQuery.Location = new System.Drawing.Point(4, 19);
-            this.rtbQuery.Margin = new System.Windows.Forms.Padding(2);
+            this.rtbQuery.Location = new System.Drawing.Point(5, 24);
+            this.rtbQuery.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rtbQuery.Name = "rtbQuery";
-            this.rtbQuery.Size = new System.Drawing.Size(238, 135);
+            this.rtbQuery.Size = new System.Drawing.Size(316, 168);
             this.rtbQuery.TabIndex = 0;
             this.rtbQuery.Text = "";
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.rtbQuery);
-            this.groupBox1.Location = new System.Drawing.Point(9, 10);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Location = new System.Drawing.Point(6, 14);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox1.Size = new System.Drawing.Size(246, 158);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox1.Size = new System.Drawing.Size(328, 198);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "搜索串";
@@ -62,49 +72,119 @@ namespace CJLNoteExtend
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.rtbReplace);
-            this.groupBox2.Location = new System.Drawing.Point(260, 10);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
+            this.groupBox2.Location = new System.Drawing.Point(341, 14);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
-            this.groupBox2.Size = new System.Drawing.Size(246, 158);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox2.Size = new System.Drawing.Size(328, 198);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "替换串";
             // 
             // rtbReplace
             // 
-            this.rtbReplace.Location = new System.Drawing.Point(4, 19);
-            this.rtbReplace.Margin = new System.Windows.Forms.Padding(2);
+            this.rtbReplace.Location = new System.Drawing.Point(5, 24);
+            this.rtbReplace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rtbReplace.Name = "rtbReplace";
-            this.rtbReplace.Size = new System.Drawing.Size(238, 135);
+            this.rtbReplace.Size = new System.Drawing.Size(316, 168);
             this.rtbReplace.TabIndex = 0;
             this.rtbReplace.Text = "";
             // 
             // btnReplace
             // 
             this.btnReplace.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.btnReplace.Location = new System.Drawing.Point(401, 172);
-            this.btnReplace.Margin = new System.Windows.Forms.Padding(2);
+            this.btnReplace.Location = new System.Drawing.Point(531, 229);
+            this.btnReplace.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnReplace.Name = "btnReplace";
-            this.btnReplace.Size = new System.Drawing.Size(106, 42);
+            this.btnReplace.Size = new System.Drawing.Size(141, 52);
             this.btnReplace.TabIndex = 2;
             this.btnReplace.Text = "替换";
             this.btnReplace.UseVisualStyleBackColor = true;
             this.btnReplace.Click += new System.EventHandler(this.btnReplace_Click);
             // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(12, 12);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(686, 315);
+            this.tabControl1.TabIndex = 3;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.groupBox1);
+            this.tabPage1.Controls.Add(this.btnReplace);
+            this.tabPage1.Controls.Add(this.groupBox2);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(678, 286);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "搜索替换";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.btnSelect);
+            this.tabPage2.Controls.Add(this.groupBox3);
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(678, 286);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "搜索匹配";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // btnSelect
+            // 
+            this.btnSelect.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnSelect.Location = new System.Drawing.Point(531, 229);
+            this.btnSelect.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnSelect.Name = "btnSelect";
+            this.btnSelect.Size = new System.Drawing.Size(141, 52);
+            this.btnSelect.TabIndex = 3;
+            this.btnSelect.Text = "搜索";
+            this.btnSelect.UseVisualStyleBackColor = true;
+            this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.rtbSelect);
+            this.groupBox3.Location = new System.Drawing.Point(6, 14);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox3.Size = new System.Drawing.Size(666, 198);
+            this.groupBox3.TabIndex = 2;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "搜索串";
+            // 
+            // rtbSelect
+            // 
+            this.rtbSelect.Location = new System.Drawing.Point(5, 24);
+            this.rtbSelect.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.rtbSelect.Name = "rtbSelect";
+            this.rtbSelect.Size = new System.Drawing.Size(655, 168);
+            this.rtbSelect.TabIndex = 0;
+            this.rtbSelect.Text = "";
+            // 
             // StringReplaceForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(518, 222);
-            this.Controls.Add(this.btnReplace);
-            this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(2);
+            this.ClientSize = new System.Drawing.Size(710, 339);
+            this.Controls.Add(this.tabControl1);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "StringReplaceForm";
-            this.Text = "字符串全局替换,支持使用正则匹配";
+            this.Text = "使用正则匹配";
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -116,6 +196,12 @@ namespace CJLNoteExtend
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.RichTextBox rtbReplace;
         private System.Windows.Forms.Button btnReplace;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.Button btnSelect;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.RichTextBox rtbSelect;
     }
 }
 

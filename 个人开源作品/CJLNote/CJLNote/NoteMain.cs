@@ -16,6 +16,9 @@ namespace CJLNote
     public partial class NoteMain : Form
     {
         private List<IMenuTool> menuTools = new List<IMenuTool>();
+        private List<string> texts = new List<string>();
+        //下标
+        private int flag = 0;
         public NoteMain()
         {
             InitializeComponent();
@@ -93,7 +96,24 @@ namespace CJLNote
         {
             ToolStripMenuItem toolStripMenuItem = (ToolStripMenuItem)sender;
             //执行相应操作
-            ((IMenuTool)toolStripMenuItem.Tag).Operation(richTextBox1);
+            ((IMenuTool)toolStripMenuItem.Tag).Operation(rtbNote);
+        }
+
+        private void rtbNote_KeyDown(object sender, KeyEventArgs e)
+        {
+            //阻止自带的后退和前进操作
+            if (e.Control && (e.KeyCode == Keys.Z && e.KeyCode == Keys.Y))
+            {
+                if (e.Control && e.KeyCode == Keys.Z)
+                {
+                    
+                }
+                else
+                {
+
+                }
+                e.Handled = true;
+            }
         }
     }
     class MenuTools

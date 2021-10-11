@@ -19,11 +19,23 @@ namespace CJLNoteExtend
         {
             this.rtb = rtb;
             InitializeComponent();
-
         }
+        //替换
         private void btnReplace_Click(object sender, EventArgs e)
         {
             rtb.Text = Regex.Replace(rtb.Text, rtbQuery.Text, rtbReplace.Text);
+        }
+        //搜索
+        private void btnSelect_Click(object sender, EventArgs e)
+        {
+            string result = "";
+            var strs = Regex.Matches(rtb.Text, rtbSelect.Text);
+            foreach (var item in strs)
+            {
+                result += item.ToString() + @"
+";
+            }
+            rtb.Text = result;
         }
     }
 }
