@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj": {}
+    "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj": {
+    "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj",
         "projectName": "Blog.CoreTest.Common",
-        "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\obj\\",
+        "projectPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -102,24 +100,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj": {
+    "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj",
         "projectName": "Blog.CoreTest.IServices",
-        "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\obj\\",
+        "projectPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\Blog.CoreTest.IServices.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.IServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -128,16 +126,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj": {
-                "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj"
+              "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj": {
+                "projectPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj"
               }
             }
           }
@@ -166,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj": {
+    "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj",
         "projectName": "Blog.CoreTest.Model",
-        "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\obj\\",
+        "projectPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\Blog.CoreTest.Model.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,16 +188,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj": {
-                "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj"
+              "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj": {
+                "projectPath": "D:\\document\\Dome\\用来参考和研究\\Blog.CoreTest\\Blog.CoreTest.Common\\Blog.CoreTest.Common.csproj"
               }
             }
           }
@@ -236,7 +230,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

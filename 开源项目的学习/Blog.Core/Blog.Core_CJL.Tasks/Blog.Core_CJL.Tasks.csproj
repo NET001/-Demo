@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Blog.Core_CJL.IServices\Blog.Core_CJL.IServices.csproj" />
+	  <!--任务调度-->
+	  <PackageReference Include="Quartz" Version="3.2.3" />
   </ItemGroup>
 
 </Project>

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Blog.Core_CJL.Common.Helper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -38,7 +39,7 @@ namespace Blog.Core_CJL.Common.HttpContextUser
             {
                 if (!string.IsNullOrEmpty(GetToken()))
                 {
-                    var getNameType = Permissions.IsUseIds4 ? "name" : "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name";
+                    var getNameType ="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name";
                     return GetUserInfoFromToken(getNameType).FirstOrDefault().ObjToString();
                 }
             }

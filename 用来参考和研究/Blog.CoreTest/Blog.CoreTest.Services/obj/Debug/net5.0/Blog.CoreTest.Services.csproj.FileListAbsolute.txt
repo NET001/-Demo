@@ -63,3 +63,25 @@ D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.Cor
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.dll
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\ref\Blog.CoreTest.Services.dll
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Services.deps.json
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Services.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\ref\Blog.CoreTest.Services.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Services.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.IServices.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Model.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Repository.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.IServices.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Repository.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Model.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\bin\Debug\net5.0\Blog.CoreTest.Model.xml
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.csproj.AssemblyReference.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.AssemblyInfoInputs.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.AssemblyInfo.cs
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.csproj.CoreCompileInputs.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.csproj.CopyComplete
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\ref\Blog.CoreTest.Services.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Services\obj\Debug\net5.0\Blog.CoreTest.Services.pdb

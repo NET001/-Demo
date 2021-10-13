@@ -9,11 +9,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Blog.Core_CJL.Extensions\Blog.Core_CJL.Extensions.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Filter\" />
     <Folder Include="Log\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>

@@ -45,3 +45,19 @@ D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.Cor
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.dll
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\ref\Blog.CoreTest.Model.dll
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Model.deps.json
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Model.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\ref\Blog.CoreTest.Model.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Model.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Model.xml
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.csproj.AssemblyReference.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.AssemblyInfoInputs.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.AssemblyInfo.cs
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.csproj.CoreCompileInputs.cache
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.csproj.CopyComplete
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\ref\Blog.CoreTest.Model.dll
+D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Model\obj\Debug\net5.0\Blog.CoreTest.Model.pdb

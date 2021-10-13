@@ -3,3 +3,14 @@ E:\CJL_学习\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debu
 E:\CJL_学习\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.AssemblyInfoInputs.cache
 E:\CJL_学习\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.AssemblyInfo.cs
 E:\CJL_学习\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.csproj.CoreCompileInputs.cache
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.AssemblyInfoInputs.cache
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.AssemblyInfo.cs
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.csproj.CoreCompileInputs.cache
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\bin\Debug\net5.0\Blog.Core_CJL.Common.deps.json
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\bin\Debug\net5.0\Blog.Core_CJL.Common.dll
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\bin\Debug\net5.0\ref\Blog.Core_CJL.Common.dll
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\bin\Debug\net5.0\Blog.Core_CJL.Common.pdb
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.dll
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\ref\Blog.Core_CJL.Common.dll
+D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Common\obj\Debug\net5.0\Blog.Core_CJL.Common.pdb

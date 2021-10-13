@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {}
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
         "projectName": "Blog.Core_CJL.Common",
-        "projectPath": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\obj\\",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -102,24 +100,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {
+    "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
         "projectName": "Blog.Core_CJL.Model",
-        "projectPath": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\obj\\",
+        "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\Blog.Core_CJL.Model.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -128,16 +126,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
-                "projectPath": "E:\\CJL_学习\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj"
+              "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj": {
+                "projectPath": "D:\\document\\Dome\\开源项目的学习\\Blog.Core\\Blog.Core_CJL.Common\\Blog.Core_CJL.Common.csproj"
               }
             }
           }
@@ -172,7 +168,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

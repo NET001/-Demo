@@ -1,4 +1,5 @@
 ﻿using Blog.Core_CJL.Model;
+using Blog.Core_CJL.Model.MessageCore;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

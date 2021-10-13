@@ -1,0 +1,13 @@
+﻿2021-10-13 21:38:51,594| ERROR 
+index.html的属性，必须设置为嵌入的资源
+--------------------------------
+2021-10-13 21:39:16,292| ERROR 
+index.html的属性，必须设置为嵌入的资源
+--------------------------------
+2021-10-13 21:40:48,288| ERROR 
+index.html的属性，必须设置为嵌入的资源
+--------------------------------
+2021-10-13 21:44:12,473| ERROR 
+Blog.Core_CJL.xml和Blog.Core_CJL.Model.xml 丢失，请检查并拷贝。
+Could not find file 'D:\document\Dome\开源项目的学习\Blog.Core\Blog.Core_CJL.Api\bin\Debug\net5.0\Blog.Core_CJL.Api.xml'.
+--------------------------------
