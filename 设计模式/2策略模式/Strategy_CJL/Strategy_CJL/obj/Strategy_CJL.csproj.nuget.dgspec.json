@@ -10,14 +10,15 @@
         "projectUniqueName": "D:\\document\\Dome\\设计模式\\2策略模式\\Strategy_CJL\\Strategy_CJL\\Strategy_CJL.csproj",
         "projectName": "Strategy_CJL",
         "projectPath": "D:\\document\\Dome\\设计模式\\2策略模式\\Strategy_CJL\\Strategy_CJL\\Strategy_CJL.csproj",
-        "packagesPath": "C:\\Users\\cjl\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
         "outputPath": "D:\\document\\Dome\\设计模式\\2策略模式\\Strategy_CJL\\Strategy_CJL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

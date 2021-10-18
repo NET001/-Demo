@@ -4,6 +4,9 @@ using System.Text;
 
 namespace FacadePattern_CJL
 {
+    /// <summary>
+    /// 子系统一
+    /// </summary>
     public class SubSystemOne
     {
         public void MethodOne()
