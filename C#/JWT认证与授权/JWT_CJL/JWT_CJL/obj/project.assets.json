@@ -3580,23 +3580,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CJL\\.nuget\\packages\\": {},
-    "D:\\software\\vs2019\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ganwe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\document\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\JWT_CJL.csproj",
+      "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\JWT_CJL.csproj",
       "projectName": "JWT_CJL",
-      "projectPath": "D:\\document\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\JWT_CJL.csproj",
-      "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
-      "outputPath": "D:\\document\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\obj\\",
+      "projectPath": "E:\\CJL_学习\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\JWT_CJL.csproj",
+      "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+      "outputPath": "E:\\CJL_学习\\Dome\\C#\\JWT认证与授权\\JWT_CJL\\JWT_CJL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\software\\vs2019\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3605,6 +3605,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "E:\\LocalNuget": {},
+        "http://nuget.ganweisoft.net": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3646,7 +3648,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

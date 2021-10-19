@@ -4,6 +4,9 @@ using System.Text;
 
 namespace ObserverPattern_CJL
 {
+    /// <summary>
+    /// 抽象主题
+    /// </summary>
    public abstract class Subject
     {
         private IList<Observer> observers = new List<Observer>();

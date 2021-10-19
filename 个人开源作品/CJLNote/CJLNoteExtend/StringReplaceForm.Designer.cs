@@ -40,12 +40,21 @@ namespace CJLNoteExtend
             this.btnSelect = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.rtbSelect = new System.Windows.Forms.RichTextBox();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.groupBox3.SuspendLayout();
+            this.tabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // rtbQuery
@@ -106,6 +115,7 @@ namespace CJLNoteExtend
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Location = new System.Drawing.Point(12, 12);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
@@ -170,6 +180,81 @@ namespace CJLNoteExtend
             this.rtbSelect.TabIndex = 0;
             this.rtbSelect.Text = "";
             // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.dataGridView1);
+            this.tabPage3.Controls.Add(this.button3);
+            this.tabPage3.Controls.Add(this.button2);
+            this.tabPage3.Controls.Add(this.button1);
+            this.tabPage3.Controls.Add(this.label1);
+            this.tabPage3.Controls.Add(this.comboBox1);
+            this.tabPage3.Location = new System.Drawing.Point(4, 25);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage3.Size = new System.Drawing.Size(678, 286);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "执行脚本";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(10, 50);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 28);
+            this.comboBox1.TabIndex = 0;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Location = new System.Drawing.Point(7, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(89, 20);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "选择脚本";
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button1.Location = new System.Drawing.Point(10, 98);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(121, 37);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "执行";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button2.Location = new System.Drawing.Point(10, 165);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(121, 37);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "修改";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.button3.Location = new System.Drawing.Point(11, 230);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(120, 37);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "删除";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(165, 6);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 27;
+            this.dataGridView1.Size = new System.Drawing.Size(507, 274);
+            this.dataGridView1.TabIndex = 3;
+            // 
             // StringReplaceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
@@ -185,6 +270,9 @@ namespace CJLNoteExtend
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
             this.groupBox3.ResumeLayout(false);
+            this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -202,6 +290,13 @@ namespace CJLNoteExtend
         private System.Windows.Forms.Button btnSelect;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.RichTextBox rtbSelect;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
 

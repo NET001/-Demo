@@ -5,6 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -66,6 +67,11 @@ namespace JWT_CJL
                      OnChallenge = context =>
                      {
                          context.Response.Headers.Add("Token-Error", context.ErrorDescription);
+                         MemoryStream stream = new MemoryStream();
+                         StreamWriter writer = new StreamWriter(stream);
+                         writer.Write("JWT认证失败");
+                         writer.Flush();
+                         context.Response.Body = stream;
                          return Task.CompletedTask;
                      },
                      OnAuthenticationFailed = context =>

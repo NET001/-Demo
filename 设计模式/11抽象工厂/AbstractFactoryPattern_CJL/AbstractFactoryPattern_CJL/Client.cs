@@ -4,6 +4,9 @@ using System.Text;
 
 namespace AbstractFactoryPattern_CJL
 {
+    /// <summary>
+    /// 客户端
+    /// </summary>
    public class Client
     {
         private AbstractProductA AbstractProductA;
