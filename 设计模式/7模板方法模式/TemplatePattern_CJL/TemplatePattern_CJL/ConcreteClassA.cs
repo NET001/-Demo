@@ -4,6 +4,9 @@ using System.Text;
 
 namespace TemplatePattern_CJL
 {
+    /// <summary>
+    /// 模板方法实现A
+    /// </summary>
     public class ConcreteClassA : AbstractClass
     {
         public override void PrimitiveOperation1()

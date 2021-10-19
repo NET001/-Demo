@@ -4,6 +4,9 @@ using System.Text;
 
 namespace PrototypePattern_CJL
 {
+    /// <summary>
+    /// 具体原型类1
+    /// </summary>
    public class ConcretePrototype1 : Prototype
     {
         // Constructor 
@@ -11,12 +14,10 @@ namespace PrototypePattern_CJL
             : base(id)
         {
         }
-
         public override Prototype Clone()
         {
             // Shallow copy 
             return (Prototype)this.MemberwiseClone();
         }
     }
-
 }

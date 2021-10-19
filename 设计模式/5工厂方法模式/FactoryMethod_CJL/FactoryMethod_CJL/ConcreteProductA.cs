@@ -4,6 +4,9 @@ using System.Text;
 
 namespace FactoryMethod_CJL
 {
+    /// <summary>
+    /// 具体产品A
+    /// </summary>
     public class ConcreteProductA : Product
     {
         public void Operation()
