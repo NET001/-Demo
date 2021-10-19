@@ -4,6 +4,9 @@ using System.Text;
 
 namespace AbstractFactoryPattern_CJL
 {
+    /// <summary>
+    /// 具体工厂1
+    /// </summary>
     public class ConcreteFactory1 : AbstractFactory
     {
         public override AbstractProductA CreateProductA()

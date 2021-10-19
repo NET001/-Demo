@@ -4,7 +4,10 @@ using System.Text;
 
 namespace AbstractFactoryPattern_CJL
 {
-   public class ProductA2 : AbstractProductA
+    /// <summary>
+    /// 产品A类实现2
+    /// </summary>
+    public class ProductA2 : AbstractProductA
     {
     }
 }

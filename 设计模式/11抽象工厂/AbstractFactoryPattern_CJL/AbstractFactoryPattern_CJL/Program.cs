@@ -7,11 +7,11 @@ namespace AbstractFactoryPattern_CJL
         static void Main(string[] args)
         {
             AbstractFactory factory1 = new ConcreteFactory1();
-            Client c1 = new Client(factory1);
+            FactoryProducer c1 = new FactoryProducer(factory1);
             c1.Run();
 
             AbstractFactory factory2 = new ConcreteFactory2();
-            Client c2 = new Client(factory2);
+            FactoryProducer c2 = new FactoryProducer(factory2);
             c2.Run();
 
             Console.Read();

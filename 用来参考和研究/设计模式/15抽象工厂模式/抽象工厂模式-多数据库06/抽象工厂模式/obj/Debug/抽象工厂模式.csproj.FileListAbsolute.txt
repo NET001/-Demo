@@ -1,0 +1,7 @@
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\bin\Debug\抽象工厂模式.exe.config
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\bin\Debug\抽象工厂模式.exe
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\bin\Debug\抽象工厂模式.pdb
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\obj\Debug\抽象工厂模式.csproj.AssemblyReference.cache
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\obj\Debug\抽象工厂模式.csproj.CoreCompileInputs.cache
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\obj\Debug\抽象工厂模式.exe
+D:\document\Dome\用来参考和研究\设计模式\15抽象工厂模式\抽象工厂模式-多数据库06\抽象工厂模式\obj\Debug\抽象工厂模式.pdb

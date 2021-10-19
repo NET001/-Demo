@@ -5,7 +5,7 @@ using System.Text;
 namespace AbstractFactoryPattern_CJL
 {
     /// <summary>
-    /// 抽象产品B
+    /// 抽象产品族B
     /// </summary>
     public abstract class AbstractProductB
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVeolJYZDTOfVRc87ETWdRKiDCKh9BvdW4qiF1jpilA3NiTeb1zwBG2oniJpGmmcFlPLX+ZazmbHGeCx17y7Hw==",
+  "dgSpecHash": "6VLuMP+tcJVzt+MktnZ4sKBTWNzun32agIHuqFyQynYp0CmBB4kv7a7KuS8BZIz0/3f+w6wARLSTzNpNlpk44g==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\设计模式\\11抽象工厂\\AbstractFactoryPattern_CJL\\AbstractFactoryPattern_CJL\\AbstractFactoryPattern_CJL.csproj",
+  "projectFilePath": "D:\\document\\Dome\\设计模式\\11抽象工厂\\AbstractFactoryPattern_CJL\\AbstractFactoryPattern_CJL\\AbstractFactoryPattern_CJL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

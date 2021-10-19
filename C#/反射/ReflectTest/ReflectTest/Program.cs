@@ -22,6 +22,8 @@ namespace ReflectTest
             Assembly assem3 = Assembly.LoadFile(path);
             //获取当前所在执行的程序集
             Assembly assem4 = Assembly.GetExecutingAssembly();
+
+            Assembly.Load("程序集名称").CreateInstance("命名空间.类名");
             //---------------------------------------------
             //获取程序集
 
