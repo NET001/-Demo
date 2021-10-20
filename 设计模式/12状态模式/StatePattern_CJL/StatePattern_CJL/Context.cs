@@ -4,6 +4,9 @@ using System.Text;
 
 namespace StatePattern_CJL
 {
+    /// <summary>
+    /// 上下文类,其中包含要维护的状态
+    /// </summary>
     public class Context
     {
         private State state;
@@ -25,11 +28,9 @@ namespace StatePattern_CJL
                 Console.WriteLine("当前状态:" + state.GetType().Name);
             }
         }
-
         public void Request()
         {
             state.Handle(this);
         }
     }
-
 }

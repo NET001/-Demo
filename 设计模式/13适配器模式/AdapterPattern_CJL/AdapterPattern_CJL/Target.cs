@@ -4,6 +4,9 @@ using System.Text;
 
 namespace AdapterPattern_CJL
 {
+    /// <summary>
+    /// 客户端期待的接口
+    /// </summary>
     public class Target
     {
         public virtual void Request()

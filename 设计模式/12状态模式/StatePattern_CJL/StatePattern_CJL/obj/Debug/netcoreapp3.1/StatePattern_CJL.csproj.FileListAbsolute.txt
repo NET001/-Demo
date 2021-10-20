@@ -10,3 +10,17 @@ E:\CJL_学习\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL
 E:\CJL_学习\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.dll
 E:\CJL_学习\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.pdb
 E:\CJL_学习\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.genruntimeconfig.cache
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.exe
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.deps.json
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.runtimeconfig.json
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.runtimeconfig.dev.json
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.dll
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\bin\Debug\netcoreapp3.1\StatePattern_CJL.pdb
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.csproj.AssemblyReference.cache
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.AssemblyInfoInputs.cache
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.AssemblyInfo.cs
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.csproj.CoreCompileInputs.cache
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.dll
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.pdb
+D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.genruntimeconfig.cache
