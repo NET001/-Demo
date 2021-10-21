@@ -4,6 +4,9 @@ using System.Text;
 
 namespace MementoPattern_CJL
 {
+    /// <summary>
+    /// 发起人
+    /// </summary>
     public class Originator
     {
         private string state;

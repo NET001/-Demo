@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
+    /// <summary>
+    /// 树叶构件
+    /// </summary>
     public class Leaf : Component
     {
         public Leaf(string name)

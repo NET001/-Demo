@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
+    /// <summary>
+    /// 枝叶构建
+    /// </summary>
     public class Composite : Component
     {
         private List<Component> children = new List<Component>();
