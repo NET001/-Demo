@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
+    /// <summary>
+    /// 迭代器抽象类
+    /// </summary>
     public abstract class Iterator
     {
         public abstract object First();

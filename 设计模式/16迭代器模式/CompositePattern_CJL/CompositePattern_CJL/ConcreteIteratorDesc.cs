@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
+    /// <summary>
+    /// 具体迭代器类（从后往前遍历）
+    /// </summary>
     public class ConcreteIteratorDesc : Iterator
     {
         private ConcreteAggregate aggregate;
@@ -41,6 +44,5 @@ namespace CompositePattern_CJL
         {
             return current < 0 ? true : false;
         }
-
     }
 }

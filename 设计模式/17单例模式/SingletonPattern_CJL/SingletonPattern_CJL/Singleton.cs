@@ -4,6 +4,9 @@ using System.Text;
 
 namespace SingletonPattern_CJL
 {
+    /// <summary>
+    /// 单例类
+    /// </summary>
     public class Singleton
     {
         private static Singleton instance;

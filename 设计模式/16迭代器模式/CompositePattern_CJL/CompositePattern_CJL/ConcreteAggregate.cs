@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
+    /// <summary>
+    /// 具体聚集类
+    /// </summary>
     public class ConcreteAggregate : Aggregate
     {
         private IList<object> items = new List<object>();
@@ -23,5 +26,4 @@ namespace CompositePattern_CJL
             set { items.Insert(index, value); }
         }
     }
-
 }

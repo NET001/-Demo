@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CompositePattern_CJL
 {
-  public class ConcreteIterator : Iterator
+    /// <summary>
+    /// 具体迭代器类（从前往后遍历）
+    /// </summary>
+    public class ConcreteIterator : Iterator
     {
         private ConcreteAggregate aggregate;
         private int current = 0;

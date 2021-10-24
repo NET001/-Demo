@@ -20,6 +20,13 @@ namespace CompositePattern_CJL
                 Console.WriteLine(i.CurrentItem());
                 i.Next();
             }
+            Iterator id = new ConcreteIteratorDesc(a);
+            object itemd = i.First();
+            while (!id.IsDone())
+            {
+                Console.WriteLine(id.CurrentItem());
+                id.Next();
+            }
             Console.Read();
         }
     }
