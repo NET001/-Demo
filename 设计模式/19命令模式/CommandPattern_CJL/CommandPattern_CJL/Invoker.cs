@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CommandPattern_CJL
 {
+    /// <summary>
+    /// 请求者/调用者
+    /// </summary>
     public class Invoker
     {
         private Command command;

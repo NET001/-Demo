@@ -4,11 +4,11 @@ using System.Text;
 
 namespace CommandPattern_CJL
 {
-    public class Receiver
+    /// <summary>
+    /// 抽象接收者/实现者
+    /// </summary>
+    public abstract class Receiver
     {
-        public void Action()
-        {
-            Console.WriteLine("执行请求！");
-        }
+        public abstract void Action();
     }
 }

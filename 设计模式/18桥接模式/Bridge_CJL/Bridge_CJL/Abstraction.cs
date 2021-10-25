@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Bridge_CJL
 {
+    /// <summary>
+    /// 抽象化
+    /// </summary>
     public class Abstraction
     {
         protected Implementor implementor;
@@ -17,7 +20,5 @@ namespace Bridge_CJL
         {
             implementor.Operation();
         }
-
     }
-
 }

@@ -6,11 +6,16 @@ namespace CommandPattern_CJL
     {
         static void Main(string[] args)
         {
-            Receiver r = new Receiver();
-            Command c = new ConcreteCommand(r);
+            Receiver rA = new ReceiverA();
+            Command cA = new ConcreteCommand(rA);
+            Receiver rB = new ReceiverB();
+            Command cB = new ConcreteCommand(rB);
             Invoker i = new Invoker();
-            i.SetCommand(c);
+            i.SetCommand(cA);
             i.ExecuteCommand();
+            i.SetCommand(cB);
+            i.ExecuteCommand();
+
             Console.Read();
         }
     }

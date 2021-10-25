@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Bridge_CJL
 {
+    /// <summary>
+    /// 具体实现话A
+    /// </summary>
     public class ConcreteImplementorA : Implementor
     {
         public override void Operation()

@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CommandPattern_CJL
 {
+    /// <summary>
+    /// 抽象命令类
+    /// </summary>
    public abstract class Command
     {
         protected Receiver receiver;

@@ -11,3 +11,4 @@ D:\document\Dome\设计模式\19命令模式\CommandPattern_CJL\CommandPattern_C
 D:\document\Dome\设计模式\19命令模式\CommandPattern_CJL\CommandPattern_CJL\obj\Debug\netcoreapp3.1\CommandPattern_CJL.dll
 D:\document\Dome\设计模式\19命令模式\CommandPattern_CJL\CommandPattern_CJL\obj\Debug\netcoreapp3.1\CommandPattern_CJL.pdb
 D:\document\Dome\设计模式\19命令模式\CommandPattern_CJL\CommandPattern_CJL\obj\Debug\netcoreapp3.1\CommandPattern_CJL.genruntimeconfig.cache
+D:\document\Dome\设计模式\19命令模式\CommandPattern_CJL\CommandPattern_CJL\obj\Debug\netcoreapp3.1\CommandPattern_CJL.csproj.AssemblyReference.cache

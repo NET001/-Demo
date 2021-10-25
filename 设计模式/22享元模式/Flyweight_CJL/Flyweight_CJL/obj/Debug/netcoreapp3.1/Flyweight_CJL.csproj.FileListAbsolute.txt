@@ -11,3 +11,4 @@ D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Deb
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.dll
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.pdb
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.genruntimeconfig.cache
+D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.csproj.AssemblyReference.cache
