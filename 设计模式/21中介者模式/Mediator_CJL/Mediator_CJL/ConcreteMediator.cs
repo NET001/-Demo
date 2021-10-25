@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Mediator_CJL
 {
+    /// <summary>
+    /// 具体中介者
+    /// </summary>
    public class ConcreteMediator : Mediator
     {
         private ConcreteColleague1 colleague1;
@@ -31,5 +34,4 @@ namespace Mediator_CJL
             }
         }
     }
-
 }
