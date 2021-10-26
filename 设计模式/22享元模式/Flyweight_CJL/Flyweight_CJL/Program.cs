@@ -6,24 +6,24 @@ namespace Flyweight_CJL
     {
         static void Main(string[] args)
         {
-                int extrinsicstate = 22;
+            int extrinsicstate = 22;
 
-                FlyweightFactory f = new FlyweightFactory();
+            FlyweightFactory f = new FlyweightFactory();
 
-                Flyweight fx = f.GetFlyweight("X");
-                fx.Operation(--extrinsicstate);
+            Flyweight fx = f.GetFlyweight("X");
+            fx.Operation(--extrinsicstate);
 
-                Flyweight fy = f.GetFlyweight("Y");
-                fy.Operation(--extrinsicstate);
+            Flyweight fy = f.GetFlyweight("Y");
+            fy.Operation(--extrinsicstate);
 
-                Flyweight fz = f.GetFlyweight("Z");
-                fz.Operation(--extrinsicstate);
+            Flyweight fz = f.GetFlyweight("Z");
+            fz.Operation(--extrinsicstate);
 
-                UnsharedConcreteFlyweight uf = new UnsharedConcreteFlyweight();
+            UnsharedConcreteFlyweight uf = new UnsharedConcreteFlyweight();
 
-                uf.Operation(--extrinsicstate);
+            uf.Operation(--extrinsicstate);
 
-                Console.Read();
+            Console.Read();
         }
     }
 }

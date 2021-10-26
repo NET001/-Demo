@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Interpreter_CJL")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IO_CJL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Interpreter_CJL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Interpreter_CJL")]
+[assembly: System.Reflection.AssemblyProductAttribute("IO_CJL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IO_CJL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

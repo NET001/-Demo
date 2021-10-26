@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Flyweight_CJL
 {
+    /// <summary>
+    /// 享元工厂
+    /// </summary>
     public class FlyweightFactory
     {
         private Hashtable flyweights = new Hashtable();
