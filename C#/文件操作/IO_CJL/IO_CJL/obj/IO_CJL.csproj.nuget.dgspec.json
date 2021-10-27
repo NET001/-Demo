@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\设计模式\\23解释器模式\\Interpreter_CJL\\Interpreter_CJL\\Interpreter_CJL.csproj": {}
+    "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\IO_CJL.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\设计模式\\23解释器模式\\Interpreter_CJL\\Interpreter_CJL\\Interpreter_CJL.csproj": {
+    "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\IO_CJL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\设计模式\\23解释器模式\\Interpreter_CJL\\Interpreter_CJL\\Interpreter_CJL.csproj",
-        "projectName": "Interpreter_CJL",
-        "projectPath": "E:\\CJL_学习\\Dome\\设计模式\\23解释器模式\\Interpreter_CJL\\Interpreter_CJL\\Interpreter_CJL.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\IO_CJL.csproj",
+        "projectName": "IO_CJL",
+        "projectPath": "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\IO_CJL.csproj",
         "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\设计模式\\23解释器模式\\Interpreter_CJL\\Interpreter_CJL\\obj\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,24 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Composite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

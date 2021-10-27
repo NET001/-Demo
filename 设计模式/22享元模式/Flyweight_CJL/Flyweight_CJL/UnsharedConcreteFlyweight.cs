@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Flyweight_CJL
 {
+    /// <summary>
+    /// 非享元
+    /// </summary>
     public class UnsharedConcreteFlyweight : Flyweight
     {
         public override void Operation(int extrinsicstate)

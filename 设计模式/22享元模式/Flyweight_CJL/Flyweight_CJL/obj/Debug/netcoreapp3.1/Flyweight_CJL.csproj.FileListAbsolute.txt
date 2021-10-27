@@ -12,3 +12,16 @@ D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Deb
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.pdb
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.genruntimeconfig.cache
 D:\document\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.exe
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.dll
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\bin\Debug\netcoreapp3.1\Flyweight_CJL.pdb
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.dll
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.pdb
+E:\CJL_学习\Dome\设计模式\22享元模式\Flyweight_CJL\Flyweight_CJL\obj\Debug\netcoreapp3.1\Flyweight_CJL.genruntimeconfig.cache

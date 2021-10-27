@@ -42,6 +42,8 @@ namespace DI_CJL
             //获取服务对象(若不存在抛出异常)
             IBar bar = serviceProvider2.GetRequiredService<IBar>();
 
+
+
             Console.ReadKey();
         }
 
