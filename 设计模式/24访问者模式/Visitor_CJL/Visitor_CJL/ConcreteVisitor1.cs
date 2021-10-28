@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Visitor_CJL
 {
-public class ConcreteVisitor1 : Visitor
+    /// <summary>
+    /// 具体访问者1
+    /// </summary>
+    public class ConcreteVisitor1 : Visitor
     {
         public override void VisitConcreteElementA(ConcreteElementA concreteElementA)
         {

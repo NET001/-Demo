@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Visitor_CJL
 {
+    /// <summary>
+    /// 抽象访问者
+    /// </summary>
     public abstract class Visitor
     {
         public abstract void VisitConcreteElementA(ConcreteElementA concreteElementA);
