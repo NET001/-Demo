@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Chain_of_Responsibility_CJL
 {
+    /// <summary>
+    /// 抽象处理者
+    /// </summary>
     public abstract class Handler
     {
         protected Handler successor;
@@ -15,5 +18,4 @@ namespace Chain_of_Responsibility_CJL
 
         public abstract void HandleRequest(int request);
     }
-
 }

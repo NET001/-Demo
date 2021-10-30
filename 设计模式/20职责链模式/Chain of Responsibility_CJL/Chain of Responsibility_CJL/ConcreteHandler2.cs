@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Chain_of_Responsibility_CJL
 {
+    /// <summary>
+    /// 具体处理者2
+    /// </summary>
     public class ConcreteHandler2 : Handler
     {
         public override void HandleRequest(int request)
@@ -19,5 +22,4 @@ namespace Chain_of_Responsibility_CJL
             }
         }
     }
-
 }
