@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Interpreter_CJL
 {
+    /// <summary>
+    /// 上下文（环境）
+    /// </summary>
     public class Context
     {
         private string input;

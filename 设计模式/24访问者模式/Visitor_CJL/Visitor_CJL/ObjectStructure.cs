@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Visitor_CJL
 {
+    /// <summary>
+    /// 对象结构
+    /// </summary>
     public class ObjectStructure
     {
         private IList<Element> elements = new List<Element>();

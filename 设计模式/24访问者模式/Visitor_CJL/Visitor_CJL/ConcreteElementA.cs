@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Visitor_CJL
 {
+    /// <summary>
+    /// 具体元素A
+    /// </summary>
     public class ConcreteElementA : Element
     {
         public override void Accept(Visitor visitor)
