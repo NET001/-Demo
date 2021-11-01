@@ -18,7 +18,8 @@ namespace Configuration_CJL
             //Demo2();
             //Demo4();
             //Demo5(args);
-            Demo8();
+            //Demo8();
+            Demo9();
             Console.ReadKey();
         }
         /// <summary>
@@ -175,33 +176,27 @@ namespace Configuration_CJL
             Console.WriteLine(config.GetSection("key4").Value);
             Console.WriteLine(config.GetSection("key5").Value);
         }
-
         /// <summary>
         /// Options模式
         /// </summary>
         static void Demo9()
         {
-
-            Dictionary<string, string> source = new Dictionary<string, string>()
-            {
-                ["source:p1:p1"] = "source:p1:p1",
-                ["source:p1:p2"] = "source:p1:p2",
-                ["source:p2:p1"] = "source:p2:p1",
-                ["source:p2:p2"] = "source:p2:p2",
-            };
-            IConfigurationRoot config = new ConfigurationBuilder()
-              .Add(new MemoryConfigurationSource() { InitialData = source })
-              .Build();
             var obj = new ServiceCollection()
                   .AddOptions()
-                  .Configure<Obj1>("", config.GetSection(""))
+                  .Configure<Obj1>((Obj1 obj1) =>
+                  {
+                      obj1.p1 = new Obj1_Sub1()
+                      {
+                          p1 = "p1p1",
+                          p2 = "p1p2"
+                      };
+                  })
                   .BuildServiceProvider()
                   .GetRequiredService<IOptions<Obj1>>()
                   .Value;
-
+            Console.WriteLine(obj.p1.p1);
+            Console.WriteLine(obj.p1.p2);
         }
-
-
         public class Obj1
         {
             public Obj1_Sub1 p1 { get; set; }

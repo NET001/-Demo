@@ -44,3 +44,6 @@ E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netco
 E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CJL_学习\Dome\C#\配置\Configuration_CJL\Configuration_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
