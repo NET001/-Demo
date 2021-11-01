@@ -10,6 +10,7 @@ namespace _1._0_CJL
             MyStructAction();
             MyInterfaceAction();
             MyEventAction();
+            MyDelegateAction();
         }
         /// <summary>
         /// 类实例化，类存储在堆中
@@ -65,7 +66,17 @@ namespace _1._0_CJL
             myEvent.Progress += MyEventAction_Sub2;
             myEvent.Invoke();
         }
-
+        /// <summary>
+        /// 委托的使用
+        /// </summary>
+        static void MyDelegateAction()
+        {
+            MyDelegate myDelegate = new MyDelegate();
+            myDelegate.Call1(new Delegate1(() => { return "123"; }));
+            myDelegate.Call2(new Delegate2((string s) => { return s; }));
+            myDelegate.Call3(new Action<string, string>((string s1, string s2) => { Console.WriteLine(s1 + s2); }));
+            myDelegate.Call4(new Func<string, string>((string s) => { return s; }));
+        }
     }
 
     #region 类
@@ -154,6 +165,45 @@ namespace _1._0_CJL
 
     #region 委托
 
+    //自定义委托
+    public delegate string Delegate1();
+    public delegate string Delegate2(string p1);
+
+    public class MyDelegate
+    {
+        //委托调用
+        public void Call1(Delegate1 delegate1)
+        {
+            delegate1();
+        }
+        public void Call2(Delegate2 delegate2)
+        {
+            delegate2("123");
+        }
+        //系统自带的委托
+        public void Call3(Action<string, string> action)
+        {
+            action("123", "321");
+        }
+        public string Call4(Func<string, string> func)
+        {
+            return func("123");
+        }
+    }
+
+    #endregion
+
+    #region 运算符
+    public class MyOperation
+    {
+        //基本
+        //x.y、f(x)、a[i]、x?.y、x?[y]、x++、x--、x!、new、typeof、checked、unchecked、default、nameof、delegate、sizeof、stackalloc、x->y
+        //一元
+        //+x、-x、!x、~x、++x、--x、^x、(T)x、await、&x、*x、true 和 false
+        //范围
+        //x..y
+
+    }
 
     #endregion
 }
