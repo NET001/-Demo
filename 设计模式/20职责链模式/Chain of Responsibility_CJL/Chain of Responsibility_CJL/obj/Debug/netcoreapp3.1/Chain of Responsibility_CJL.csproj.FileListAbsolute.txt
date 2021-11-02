@@ -11,3 +11,4 @@ D:\document\Dome\设计模式\20职责链模式\Chain of Responsibility_CJL\Chai
 D:\document\Dome\设计模式\20职责链模式\Chain of Responsibility_CJL\Chain of Responsibility_CJL\obj\Debug\netcoreapp3.1\Chain of Responsibility_CJL.dll
 D:\document\Dome\设计模式\20职责链模式\Chain of Responsibility_CJL\Chain of Responsibility_CJL\obj\Debug\netcoreapp3.1\Chain of Responsibility_CJL.pdb
 D:\document\Dome\设计模式\20职责链模式\Chain of Responsibility_CJL\Chain of Responsibility_CJL\obj\Debug\netcoreapp3.1\Chain of Responsibility_CJL.genruntimeconfig.cache
+D:\document\Dome\设计模式\20职责链模式\Chain of Responsibility_CJL\Chain of Responsibility_CJL\obj\Debug\netcoreapp3.1\Chain of Responsibility_CJL.csproj.AssemblyReference.cache
