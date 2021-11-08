@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Net;
 using System.Net.Sockets;
+using Common_CJL;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace TCPClient_CJL
 {
@@ -11,35 +14,39 @@ namespace TCPClient_CJL
     {
         static void Main(string[] args)
         {
-             Socket clientSocket;
-            //将网络端点表示为IP地址和端口 用于socket侦听时绑定  
-            IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 3001); //填写自己电脑的IP或者其他电脑的IP，如果是其他电脑IP的话需将ConsoleApplication_socketServer工程放在对应的电脑上。 
-            clientSocket = new Socket(ipep.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
-            //将Socket连接到服务器  
-            try
-            {
-                clientSocket.Connect(ipep);
-                String outBufferStr;
-                Byte[] outBuffer = new Byte[1024];
-                Byte[] inBuffer = new Byte[1024];
-                while (true)
+            //获取建造者实例
+            ISocketBuild socketBuild = new SocketBuild()
+                //初始化客户端
+                .ClientInit("127.0.0.1", 20000)
+                //注册事件
+                .ClientConnectionEvent(() =>
                 {
-                    //发送消息  
-                    outBufferStr = Console.ReadLine();
-                    outBuffer = Encoding.ASCII.GetBytes(outBufferStr);
-                    clientSocket.Send(outBuffer, outBuffer.Length, SocketFlags.None);
-
-                    //接收服务器端信息        
-                    clientSocket.Receive(inBuffer, 1024, SocketFlags.None);//如果接收的消息为空 阻塞 当前循环 
-                    Console.WriteLine("服务器说：");
-                    Console.WriteLine(Encoding.ASCII.GetString(inBuffer));
-                }
-            }
-            catch(Exception ex)
+                    Console.WriteLine("服务端连接成功");
+                })
+                .ClientMessageEvent((string msg) =>
+                {
+                    Console.WriteLine("收到服务端消息:" + msg);
+                })
+                .ClientCloseEvent((Exception ex) =>
+                {
+                    Console.WriteLine("客户端异常:" + ex.ToString());
+                });
+            //构建Socket客户端帮助类实例
+            ISocketClientHelp socketClientHelp = socketBuild.BuildClientHelp();
+            Task.Run(() =>
             {
-                Console.WriteLine("服务未开启！");
-                Console.ReadLine();
-            }
+                //连接
+                socketClientHelp.Connection();
+                socketClientHelp.Send("服务端发送了消息1");
+                Thread.Sleep(1000);
+                socketClientHelp.Send("服务端发送了消息2");
+                Thread.Sleep(1000);
+                socketClientHelp.Send("服务端发送了消息3");
+                Thread.Sleep(1000);
+                socketClientHelp.Close();
+            });
+
+            Console.ReadLine();
         }
     }
 }

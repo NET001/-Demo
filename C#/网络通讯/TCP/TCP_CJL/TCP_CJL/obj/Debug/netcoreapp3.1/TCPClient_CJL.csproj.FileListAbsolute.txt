@@ -10,3 +10,7 @@ E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\T
 E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\TCPClient_CJL.dll
 E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\TCPClient_CJL.pdb
 E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\TCPClient_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\bin\Debug\netcoreapp3.1\Common_CJL.dll
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\bin\Debug\netcoreapp3.1\Common_CJL.pdb
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\TCPClient_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\TCP_CJL\obj\Debug\netcoreapp3.1\TCPClient_CJL.csproj.CopyComplete
