@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj": {}
+    "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj": {}
   },
   "projects": {
-    "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj": {
+    "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
         "projectName": "ReflectObject",
-        "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
-        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
-        "outputPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\obj\\",
+        "projectPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\ReflectObject.csproj",
+        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\software\\vs2019\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\LocalNuget": {},
+          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj": {
-                "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj"
+              "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj": {
+                "projectPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj"
               }
             }
           }
@@ -62,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj": {
+    "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj",
         "projectName": "ReflectObject2",
-        "projectPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj",
-        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
-        "outputPath": "D:\\document\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\obj\\",
+        "projectPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\ReflectObject2.csproj",
+        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectObjet2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\software\\vs2019\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,6 +90,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\LocalNuget": {},
+          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
