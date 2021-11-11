@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -17,7 +18,7 @@ namespace Middleware_CJL
 
         static void Main(string[] args)
         {
-            Demo4();
+            Demo5();
         }
         //注册中间件
         static void Demo1()
@@ -91,7 +92,41 @@ namespace Middleware_CJL
                 .Build()
                 .Run();
         }
+        /// <summary>
+        /// 访问控制器
+        /// </summary>
+        static void Demo5()
+        {
+            Host
+                .CreateDefaultBuilder()
+                .ConfigureWebHostDefaults(builder => builder
+                    //注册mvc服务
+                    .ConfigureServices(svcs => svcs
+                        .AddControllersWithViews())
+                    //配置mvc处理管道
+                    .Configure(app => app.
+                        UseRouting()
+                        .UseEndpoints(endpoints => endpoints.MapControllers())))
+                .Build()
+                .Run();
+        }
+        //添加配置选项系统
+        static void Demo6()
+        {
+            Host.CreateDefaultBuilder()
+                .ConfigureWebHostDefaults(builder => builder
+                    .ConfigureAppConfiguration(config => config
+                        .AddInMemoryCollection(new Dictionary<string, string>
+                        {
+                            ["Foobar:Foo"] = "Foo",
+                            ["Foobar:Bar"] = "Bar",
+                            ["Baz"] = "Baz"
+                        }))
+                    .UseStartup<Startup>())
+                .Build()
+                .Run();
 
+        }
     }
     //基于接口定义的中间件
     public class My1Middlewre : IMiddleware
@@ -146,6 +181,15 @@ namespace Middleware_CJL
         public void Configure(IApplicationBuilder app)
         {
 
+        }
+    }
+
+    public class HomeController : Controller
+    {
+        [HttpGet("/")]
+        public string Index()
+        {
+            return "helow word";
         }
     }
 }
