@@ -40,3 +40,9 @@ EXEC sp_addumpdevice 'disk','Demo_CJLBack','D:\Demo\Demo_CJL.bak'
 ----指定表执行指定备份配置
 BACKUP DATABASE Demo_CJL TO Demo_CJLBack
 --创建表
+CREATE TABLE Demo_CJL
+(
+	--设置为自增长主机
+	Id INT PRIMARY KEY IDENTIFIED(1,1),
+	Guid VARCHAR(40)
+)
