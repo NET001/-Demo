@@ -44,3 +44,15 @@ D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\De
 D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.dll
 D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\ref\Blog.CoreTest.Common.dll
 D:\document\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.deps.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\bin\Debug\net5.0\Blog.CoreTest.Common.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.AssemblyInfo.cs
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\ref\Blog.CoreTest.Common.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\Blog.CoreTest.Common\obj\Debug\net5.0\Blog.CoreTest.Common.pdb

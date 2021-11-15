@@ -22,5 +22,9 @@ namespace ReflectObject
                 Property3 = true
             };
         }
+        public void Func2()
+        {
+            Console.WriteLine("Func2");
+        }
     }
 }

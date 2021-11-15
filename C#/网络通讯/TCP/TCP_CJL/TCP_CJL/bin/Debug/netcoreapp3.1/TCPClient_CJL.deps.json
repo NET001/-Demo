@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TCPClient_CJL/1.0.0": {
+        "dependencies": {
+          "Common_CJL": "1.0.0"
+        },
+        "runtime": {
+          "TCPClient_CJL.dll": {}
+        }
+      },
+      "Common_CJL/1.0.0": {
+        "runtime": {
+          "Common_CJL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPClient_CJL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common_CJL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

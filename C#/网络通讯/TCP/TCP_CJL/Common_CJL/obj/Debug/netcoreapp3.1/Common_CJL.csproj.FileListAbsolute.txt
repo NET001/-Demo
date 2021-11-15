@@ -1,0 +1,8 @@
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\bin\Debug\netcoreapp3.1\Common_CJL.deps.json
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\bin\Debug\netcoreapp3.1\Common_CJL.dll
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\bin\Debug\netcoreapp3.1\Common_CJL.pdb
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\obj\Debug\netcoreapp3.1\Common_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\obj\Debug\netcoreapp3.1\Common_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\obj\Debug\netcoreapp3.1\Common_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\obj\Debug\netcoreapp3.1\Common_CJL.dll
+E:\CJL_学习\Dome\C#\网络通讯\TCP\TCP_CJL\Common_CJL\obj\Debug\netcoreapp3.1\Common_CJL.pdb
