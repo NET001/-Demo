@@ -7,19 +7,46 @@ namespace SimpleFactory_CJL
     {
         static void Main(string[] args)
         {
+            Demo2();
+            Console.ReadKey();
+        }
+        static void Demo1()
+        {
             SimpleFactory simpleFactory = new SimpleFactory();
+            List<IProduct> products = new List<IProduct>();
             //使用工厂初始化了3个产品对象
-            List<IProduct> products = new List<IProduct>() {
-                simpleFactory.GetProduct("产品A"),
-                simpleFactory.GetProduct("产品B"),
-                simpleFactory.GetProduct(),
-            };
+            for (int i = 0; i < 1000; i++)
+            {
+                products = new List<IProduct>() {
+                    simpleFactory.GetProduct("产品A"),
+                    simpleFactory.GetProduct("产品B"),
+                    simpleFactory.GetProduct(),
+                };
+            }
             //执行方法,对于初始化的工作主要交给了工厂类,Main方法只通过了简单的逻辑判断就获得了对象的实例
             foreach (var product in products)
             {
                 product.Operation();
             }
-            Console.ReadKey();
+        }
+        static void Demo2()
+        {
+            CacheSimpleFactory simpleFactory = new CacheSimpleFactory();
+            List<IProduct> products = new List<IProduct>();
+            //使用工厂初始化了3个产品对象
+            for (int i = 0; i < 1000; i++)
+            {
+                products = new List<IProduct>() {
+                    simpleFactory.GetProduct("产品A"),
+                    simpleFactory.GetProduct("产品B"),
+                    simpleFactory.GetProduct(),
+                };
+            }
+            //执行方法,对于初始化的工作主要交给了工厂类,Main方法只通过了简单的逻辑判断就获得了对象的实例
+            foreach (var product in products)
+            {
+                product.Operation();
+            }
         }
     }
 }

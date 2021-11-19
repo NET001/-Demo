@@ -12,6 +12,7 @@ namespace SimpleFactory_CJL
         public ConcreteProductB(string name)
         {
             Name = name;
+            Console.WriteLine("ConcreteProductB初始化了");
         }
         public string Name { get; set; }
         public void Operation()

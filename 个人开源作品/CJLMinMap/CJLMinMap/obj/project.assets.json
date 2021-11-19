@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CJL_学习\\Dome\\设计模式\\1简单工厂模式\\SimpleFactory_CJL\\SimpleFactory_CJL\\SimpleFactory_CJL.csproj",
-      "projectName": "SimpleFactory_CJL",
-      "projectPath": "E:\\CJL_学习\\Dome\\设计模式\\1简单工厂模式\\SimpleFactory_CJL\\SimpleFactory_CJL\\SimpleFactory_CJL.csproj",
+      "projectUniqueName": "E:\\CJL_学习\\Dome\\个人开源作品\\CJLMinMap\\CJLMinMap\\CJLMinMap.csproj",
+      "projectName": "CJLMinMap",
+      "projectPath": "E:\\CJL_学习\\Dome\\个人开源作品\\CJLMinMap\\CJLMinMap\\CJLMinMap.csproj",
       "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-      "outputPath": "E:\\CJL_学习\\Dome\\设计模式\\1简单工厂模式\\SimpleFactory_CJL\\SimpleFactory_CJL\\obj\\",
+      "outputPath": "E:\\CJL_学习\\Dome\\个人开源作品\\CJLMinMap\\CJLMinMap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

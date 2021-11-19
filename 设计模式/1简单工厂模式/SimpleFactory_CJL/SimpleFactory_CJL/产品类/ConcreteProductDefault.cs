@@ -12,6 +12,7 @@ namespace SimpleFactory_CJL
         public ConcreteProductDefault()
         {
             Name = "默认产品";
+            Console.WriteLine("ConcreteProductDefault初始化了");
         }
         public string Name { get; set; }
 
