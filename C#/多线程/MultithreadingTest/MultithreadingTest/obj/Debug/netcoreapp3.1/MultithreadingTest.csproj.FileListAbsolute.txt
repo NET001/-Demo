@@ -11,3 +11,17 @@ E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\
 E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.dll
 E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.pdb
 E:\CJL_学习\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.genruntimeconfig.cache
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.exe
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.deps.json
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.runtimeconfig.json
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.runtimeconfig.dev.json
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.dll
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\bin\Debug\netcoreapp3.1\MultithreadingTest.pdb
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.csproj.AssemblyReference.cache
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.AssemblyInfoInputs.cache
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.AssemblyInfo.cs
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.csproj.CoreCompileInputs.cache
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.dll
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.pdb
+D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\obj\Debug\netcoreapp3.1\MultithreadingTest.genruntimeconfig.cache

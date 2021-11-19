@@ -14,11 +14,26 @@ namespace MultithreadingTest
         static object lockObj = new object();
         static void Main(string[] args)
         {
-            //SafetyAdd();
-            //NoSafety();
-            //Safety();
+            Demo();
             Console.ReadLine();
         }
+        static async void Demo()
+        {
+            string s1 = Demo1().Result;
+            Console.WriteLine("主线程1" + s1);
+            await Demo1();
+            Console.WriteLine("主线程1");
+        }
+        static async Task<string> Demo1()
+        {
+            Thread.Sleep(1000);
+            await Task.Run(() =>
+            {
+                Console.WriteLine("另外线程");
+            });
+            return "123";
+        }
+
         //普通集合
         private static void NoSafety()
         {
@@ -190,7 +205,6 @@ namespace MultithreadingTest
             Task.WaitAll(t1, t2, t3);
             Console.WriteLine(list.Count);
         }
-
         private static void SafetyAdd()
         {
             ConcurrentBag<int> list = new ConcurrentBag<int>();
@@ -220,5 +234,6 @@ namespace MultithreadingTest
             Task.WaitAll(t1, t2, t3);
             Console.WriteLine(list.Count);
         }
+
     }
 }

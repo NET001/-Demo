@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MultithreadingTest
+build_property.ProjectDir = D:\document\Dome\C#\多线程\MultithreadingTest\MultithreadingTest\
