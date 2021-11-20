@@ -11,3 +11,4 @@ D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPatte
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.dll
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.genruntimeconfig.cache
+D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.csproj.AssemblyReference.cache
