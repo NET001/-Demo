@@ -48,7 +48,7 @@ namespace CJLMinMap
                                 return t.Name;
                             }
                         })() == _t.Name)
-                        .FirstOrDefault().SetValue(_result,
+                        .FirstOrDefault()?.SetValue(_result,
                             new Func<object>(() =>
                             {
                                 if (maps != null)

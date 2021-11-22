@@ -7,8 +7,12 @@ namespace SimpleFactory_CJL
     {
         static void Main(string[] args)
         {
+            DateTime beforDT = DateTime.Now;
             Demo2();
-            Console.ReadKey();
+            DateTime afterDT = DateTime.Now;
+            TimeSpan ts = afterDT.Subtract(beforDT);
+            Console.WriteLine("DateTime总共花费{0}ms.", ts.TotalMilliseconds);
+            Console.ReadKey(); 
         }
         static void Demo1()
         {

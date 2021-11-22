@@ -1,0 +1,9 @@
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\bin\Debug\建造者模式.exe
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\bin\Debug\建造者模式.pdb
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.csproj.AssemblyReference.cache
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.Form1.resources
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.Properties.Resources.resources
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.csproj.GenerateResource.cache
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.csproj.CoreCompileInputs.cache
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.exe
+D:\document\Dome\用来参考和研究\设计模式\13建造者模式\建造者模式04\建造者模式\obj\Debug\建造者模式.pdb

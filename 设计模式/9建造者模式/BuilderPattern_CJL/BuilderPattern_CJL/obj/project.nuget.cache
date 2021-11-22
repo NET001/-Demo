@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "paJnaYiwZi9g+PbrtmFX1xpPFe6RgvN7B/RVpJV7vUBPH5SMJvMhYfb2h1XfCm1g6rl3yOlj2jrbbQm0Ww/hOQ==",
+  "dgSpecHash": "1/l818B5EG9t3Fb7ZZCKgAhNxPctsv/DACdpjsjNZTkgKnp1coSFHfky8WHugIhjCsw8sLK++IZ4lxkm2+7e3g==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\设计模式\\9建造者模式\\BuilderPattern_CJL\\BuilderPattern_CJL\\BuilderPattern_CJL.csproj",
+  "projectFilePath": "D:\\document\\Dome\\设计模式\\9建造者模式\\BuilderPattern_CJL\\BuilderPattern_CJL\\BuilderPattern_CJL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
