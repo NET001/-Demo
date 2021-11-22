@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f3QikrZGpr+Qr0sUJOYtU7O0kMGB//+bJhLQ3IocJazzJv21obXlm48kqYwE/xzjeCVyhFj+D5ZW3lgKihM0BQ==",
+  "dgSpecHash": "MrmuUppRc3tgkpNzb12q2HHV8I9IkDU+gaL9inhzf02787mipWsuQ/FpOD6S1gRP4VqqwyLT2hDSjHPcgYCwww==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
+  "projectFilePath": "D:\\document\\Dome\\设计模式\\4代理模式\\ProxyPattern_CJL\\ProxyPattern_CJL\\ProxyPattern_CJL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

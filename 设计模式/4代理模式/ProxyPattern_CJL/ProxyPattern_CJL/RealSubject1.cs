@@ -7,7 +7,7 @@ namespace ProxyPattern_CJL
     /// <summary>
     /// 具体实现
     /// </summary>
-    public class RealSubject : Subject
+    public class RealSubject1 : Subject
     {
         public override void Request()
         {
