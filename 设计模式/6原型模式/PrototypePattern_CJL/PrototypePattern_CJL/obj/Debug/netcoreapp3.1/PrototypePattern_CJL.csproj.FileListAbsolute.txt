@@ -11,3 +11,15 @@ C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\ne
 C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.dll
 C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.pdb
 C:\Users\cjl\source\repos\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.exe
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\bin\Debug\netcoreapp3.1\PrototypePattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\6原型模式\PrototypePattern_CJL\PrototypePattern_CJL\obj\Debug\netcoreapp3.1\PrototypePattern_CJL.genruntimeconfig.cache

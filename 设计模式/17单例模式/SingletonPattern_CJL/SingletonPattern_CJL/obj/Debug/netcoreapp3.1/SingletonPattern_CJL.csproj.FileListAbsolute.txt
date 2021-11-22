@@ -12,3 +12,15 @@ D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPatte
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.genruntimeconfig.cache
 D:\document\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.exe
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\bin\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\17单例模式\SingletonPattern_CJL\SingletonPattern_CJL\obj\Debug\netcoreapp3.1\SingletonPattern_CJL.genruntimeconfig.cache
