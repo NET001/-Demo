@@ -4,6 +4,7 @@ using System.Reflection;
 using System.IO;
 using System.Collections.Generic;
 using System.Dynamic;
+using System.Linq;
 
 namespace ReflectTest
 {
@@ -11,7 +12,10 @@ namespace ReflectTest
     {
         static void Main(string[] args)
         {
-            Demo7();
+            typeof(TestObject1).GetProperties().ToList().ForEach(t =>
+            {
+                Console.WriteLine(t.PropertyType.Name);
+            });
             Console.ReadKey();
         }
 

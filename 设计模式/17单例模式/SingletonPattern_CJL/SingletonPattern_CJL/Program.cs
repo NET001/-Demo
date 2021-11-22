@@ -8,12 +8,7 @@ namespace SingletonPattern_CJL
     {
         static void Main(string[] args)
         {
-            Singleton4 s1 = Singleton4.GetInstance("key1");
-            Singleton4 s2 = Singleton4.GetInstance("key1");
-            if (s1 == s2)
-            {
-                Console.WriteLine("两个是同一个对象");
-            }
+            Demo1();
             Console.Read();
         }
         /// <summary>

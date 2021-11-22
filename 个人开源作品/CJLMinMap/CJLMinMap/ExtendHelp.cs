@@ -9,7 +9,7 @@ namespace CJLMinMap
     public static class ExtendHelp
     {
 
-        public static T ToTransition<T>(this object obj, List<(string, string, Func<object, object>)> maps = null) where T : class
+        public static T ToTransition<T>(this object obj, List<(string, string, Func<object, object>)> maps = null, List<(TransitionRule, object)> rule = null) where T : class
         {
             T result = (T)Activator.CreateInstance(typeof(T));
             Type type = result.GetType();
@@ -48,7 +48,7 @@ namespace CJLMinMap
                                 return t.Name;
                             }
                         })() == _t.Name)
-                        .FirstOrDefault().SetValue(_result,
+                        .FirstOrDefault()?.SetValue(_result,
                             new Func<object>(() =>
                             {
                                 if (maps != null)
@@ -70,5 +70,10 @@ namespace CJLMinMap
                 }));
             }
         }
+
+    }
+    public enum TransitionRule
+    {
+        TypeConvert,
     }
 }

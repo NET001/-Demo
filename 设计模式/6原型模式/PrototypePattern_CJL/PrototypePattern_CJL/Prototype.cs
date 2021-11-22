@@ -10,18 +10,16 @@ namespace PrototypePattern_CJL
     public abstract class Prototype
     {
         private string id;
-
-        // Constructor 
+        // Constructor
         public Prototype(string id)
         {
             this.id = id;
         }
-        // Property 
+        // Property
         public string Id
         {
             get { return id; }
         }
         public abstract Prototype Clone();
     }
-
 }
