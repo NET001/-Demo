@@ -6,11 +6,12 @@ namespace Bridge_CJL
     {
         static void Main(string[] args)
         {
-            Abstraction ab = new RefinedAbstraction();
-            ab.SetImplementor(new ConcreteImplementorA());
-            ab.Operation();
-            ab.SetImplementor(new ConcreteImplementorB());
-            ab.Operation();
+            Abstraction ab1 = new RefinedAbstraction1();
+            ab1.SetImplementor(new ConcreteImplementor1B(),new ConcreteImplementor2A());
+            ab1.Operation();
+            Abstraction ab2 = new RefinedAbstraction2();
+            ab2.SetImplementor(new ConcreteImplementor1B(), new ConcreteImplementor2A());
+            ab2.Operation();
             Console.Read();
         }
     }
