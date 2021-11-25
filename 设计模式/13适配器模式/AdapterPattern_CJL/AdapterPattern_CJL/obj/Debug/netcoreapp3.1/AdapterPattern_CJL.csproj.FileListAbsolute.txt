@@ -24,3 +24,4 @@ D:\document\Dome\设计模式\13适配器模式\AdapterPattern_CJL\AdapterPatter
 D:\document\Dome\设计模式\13适配器模式\AdapterPattern_CJL\AdapterPattern_CJL\obj\Debug\netcoreapp3.1\AdapterPattern_CJL.dll
 D:\document\Dome\设计模式\13适配器模式\AdapterPattern_CJL\AdapterPattern_CJL\obj\Debug\netcoreapp3.1\AdapterPattern_CJL.pdb
 D:\document\Dome\设计模式\13适配器模式\AdapterPattern_CJL\AdapterPattern_CJL\obj\Debug\netcoreapp3.1\AdapterPattern_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\设计模式\13适配器模式\AdapterPattern_CJL\AdapterPattern_CJL\obj\Debug\netcoreapp3.1\AdapterPattern_CJL.csprojAssemblyReference.cache

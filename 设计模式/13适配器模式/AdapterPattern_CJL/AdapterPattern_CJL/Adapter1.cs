@@ -5,13 +5,13 @@ using System.Text;
 namespace AdapterPattern_CJL
 {
     /// <summary>
-    /// 适配器
+    /// 对象适配器
     /// </summary>
-    public class Adapter : Target
+    public class Adapter1 : ITarget
     {
         private Adaptee adaptee = new Adaptee();
 
-        public override void Request()
+        public void Request()
         {
             adaptee.SpecificRequest();
         }
