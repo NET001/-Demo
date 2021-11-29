@@ -22,7 +22,7 @@ namespace ObserverPattern_CJL
             observers.Remove(observer);
         }
         //通知
-        public void Notify()
+        public virtual void Notify()
         {
             foreach (Observer o in observers)
             {
