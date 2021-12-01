@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace ObserverPattern_CJL
 {
@@ -21,15 +22,14 @@ namespace ObserverPattern_CJL
         //更新
         public override void Update()
         {
+            Thread.Sleep(1000);
             observerState = subject.SubjectState;
             Console.WriteLine("观察者{0}的新状态是{1}", name, observerState);
         }
-
         public ConcreteSubject Subject
         {
             get { return subject; }
             set { subject = value; }
         }
     }
-
 }

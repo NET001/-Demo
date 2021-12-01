@@ -28,12 +28,10 @@ namespace CompositePattern_CJL
         public override void Display(int depth)
         {
             Console.WriteLine(new String('-', depth) + name);
-
             foreach (Component component in children)
             {
                 component.Display(depth + 2);
             }
         }
     }
-
 }

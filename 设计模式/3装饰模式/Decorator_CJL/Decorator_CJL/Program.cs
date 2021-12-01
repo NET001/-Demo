@@ -10,10 +10,11 @@ namespace Decorator_CJL
         static void Main(string[] args)
         {
             Demo2();
+            Console.ReadLine();
         }
+        //装饰类作为中间层
         static void Demo1()
         {
-
             ConcreteComponent c = new ConcreteComponent();
             ConcreteDecoratorA d1 = new ConcreteDecoratorA();
             ConcreteDecoratorB d2 = new ConcreteDecoratorB();
@@ -23,58 +24,18 @@ namespace Decorator_CJL
             d2.SetComponent(d1);
             //执行
             d2.Operation();
-            Console.Read();
         }
+        //所有类都继承装饰类
         static void Demo2()
         {
+            ConcreteComponent2 c1 = new ConcreteComponent2();
+            ConcreteDecorator2A d1 = new ConcreteDecorator2A(c1);
+            ConcreteDecorator2B d2 = new ConcreteDecorator2B(d1);
+            foreach (var item in d2.Operation())
+            {
+                Console.WriteLine(item);
+            }
+        }
 
-            MyFileStream fileStream = new MyFileStream();
-            MyCryptoStream cryptoStream = new MyCryptoStream(fileStream);
-            MyGZipStream gZipStream = new MyGZipStream(cryptoStream);
-            string bt = "";
-            gZipStream.Write(out bt);
-
-            Console.WriteLine(bt);
-            Console.ReadLine();
-        }
-    }
-    abstract class MyStream
-    {
-        public abstract void Write(out string bt);
-    }
-    class MyFileStream : MyStream
-    {
-        public override void Write(out string bt)
-        {
-            bt = "获取文件中的byte";
-        }
-    }
-    class MyCryptoStream : MyStream
-    {
-        MyStream myStream = null;
-        public MyCryptoStream(MyStream myStream)
-        {
-            this.myStream = myStream;
-        }
-        public override void Write(out string bt)
-        {
-            string btt = "";
-            myStream.Write(out btt);
-            bt = "对(" + btt + ")进行了加密处理";
-        }
-    }
-    class MyGZipStream : MyStream
-    {
-        MyStream myStream = null;
-        public MyGZipStream(MyStream myStream)
-        {
-            this.myStream = myStream;
-        }
-        public override void Write(out string bt)
-        {
-            string btt = "";
-            myStream.Write(out btt);
-            bt = "对(" + btt + ")进行了压缩处理";
-        }
     }
 }

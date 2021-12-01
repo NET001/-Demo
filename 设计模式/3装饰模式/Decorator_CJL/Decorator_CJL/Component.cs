@@ -10,5 +10,6 @@ namespace Decorator_CJL
     public abstract class Component
     {
         public abstract void Operation();
+        public abstract void Operation2();
     }
 }
