@@ -6,7 +6,23 @@ namespace ObserverPattern_CJL
     {
         static void Main(string[] args)
         {
-            Demo2();
+            EventBus eventBus = new EventBus();
+            Concrete1Observer concrete11Observer = new Concrete1Observer();
+            Concrete1Observer concrete12Observer = new Concrete1Observer();
+            Concrete2Observer concrete2Observer = new Concrete2Observer();
+            eventBus.Attach(concrete11Observer);
+            eventBus.Attach(concrete12Observer);
+            eventBus.Attach(concrete2Observer);
+            eventBus.Notify(new Subject1()
+            {
+                c1 = "1111",
+                c2 = "2222",
+            });
+            eventBus.Notify(new Subject2()
+            {
+                c3 = "3333",
+                c4 = "4444",
+            });
             Console.Read();
         }
         /// <summary>
@@ -38,7 +54,21 @@ namespace ObserverPattern_CJL
         /// </summary>
         static void Demo3()
         {
-
+            EventBus eventBus = new EventBus();
+            Concrete1Observer concrete1Observer = new Concrete1Observer();
+            Concrete2Observer concrete2Observer = new Concrete2Observer();
+            eventBus.Attach(concrete1Observer);
+            eventBus.Attach(concrete2Observer);
+            eventBus.Notify(new Subject1()
+            {
+                c1 = "1111",
+                c2 = "2222",
+            });
+            eventBus.Notify(new Subject2()
+            {
+                c3 = "3333",
+                c4 = "4444",
+            });
         }
     }
 }
