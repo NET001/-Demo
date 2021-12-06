@@ -24,3 +24,4 @@ D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\o
 D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.dll
 D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.pdb
 D:\document\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\设计模式\12状态模式\StatePattern_CJL\StatePattern_CJL\obj\Debug\netcoreapp3.1\StatePattern_CJL.csprojAssemblyReference.cache
