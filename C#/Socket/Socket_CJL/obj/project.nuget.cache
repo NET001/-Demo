@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKXNQy4tYPWaZLKOkQ7CaL59BjDm612FiOs/SgdwtFVsU1gTtlBReFIv+dBk5DtljfCC2fKWJit043ccepskBA==",
+  "dgSpecHash": "vpnUziAPwSpNU0p8QMhLEIkymGY2/ntaDo+rszGBgWQj4bscTnFE9GQC8EMVyADk6OxMS6tEcN9jWFb/EyLXVw==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\Socket_CJL\\Socket_CJL\\SocketServer_CJL.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\Socket\\Socket_CJL\\SocketServer_CJL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

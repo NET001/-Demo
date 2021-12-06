@@ -15,7 +15,6 @@ namespace Chain_of_Responsibility_CJL
         {
             this.successor = successor;
         }
-
         public abstract void HandleRequest(int request);
     }
 }
