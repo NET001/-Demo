@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PG1Yqytd84e1NsFHxHGujK7obpHVM+Y8xwz3bO0RagTWO52ff7bg40KCeJTKUrBJ+xzfRYlX9GUg55jMq/V9YQ==",
+  "dgSpecHash": "gm5kbgfmtIeEb9eBl0SrDZJ8EEtaPy93c0Or8V97U5CEcyGpRARWW/3WOKz311Da+/t+wRjAAHzphp4eOpobqA==",
   "success": true,
-  "projectFilePath": "D:\\document\\Dome\\设计模式\\19命令模式\\CommandPattern_CJL\\CommandPattern_CJL\\CommandPattern_CJL.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\设计模式\\19命令模式\\CommandPattern_CJL\\CommandPattern_CJL\\CommandPattern_CJL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

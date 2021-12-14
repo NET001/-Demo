@@ -1,0 +1,4 @@
+E:\CJL_学习\Dome\C#\net core\静态文件\StaticFiles_CJL\StaticFiles_CJL\obj\Debug\netcoreapp3.1\StaticFiles_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\net core\静态文件\StaticFiles_CJL\StaticFiles_CJL\obj\Debug\netcoreapp3.1\StaticFiles_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core\静态文件\StaticFiles_CJL\StaticFiles_CJL\obj\Debug\netcoreapp3.1\StaticFiles_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core\静态文件\StaticFiles_CJL\StaticFiles_CJL\obj\Debug\netcoreapp3.1\StaticFiles_CJL.csproj.CoreCompileInputs.cache

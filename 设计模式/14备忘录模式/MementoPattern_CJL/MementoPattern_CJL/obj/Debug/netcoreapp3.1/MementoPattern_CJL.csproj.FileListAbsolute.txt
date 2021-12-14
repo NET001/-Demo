@@ -12,3 +12,16 @@ D:\document\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPatter
 D:\document\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.dll
 D:\document\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.pdb
 D:\document\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.exe
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.deps.json
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\bin\Debug\netcoreapp3.1\MementoPattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.dll
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.pdb
+E:\CJL_学习\Dome\设计模式\14备忘录模式\MementoPattern_CJL\MementoPattern_CJL\obj\Debug\netcoreapp3.1\MementoPattern_CJL.genruntimeconfig.cache
