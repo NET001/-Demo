@@ -11,7 +11,8 @@ namespace App
     {
         public static void Main()
         {
-            var logger = new ServiceCollection().AddLogging(builder => builder
+            var logger = new ServiceCollection()
+                .AddLogging(builder => builder
                     .SetMinimumLevel(LogLevel.Trace)
                     .AddConsole())
                 .BuildServiceProvider()

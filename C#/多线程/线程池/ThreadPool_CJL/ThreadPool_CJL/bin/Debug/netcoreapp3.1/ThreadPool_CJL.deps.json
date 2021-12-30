@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThreadPool_CJL/1.0.0": {
+        "runtime": {
+          "ThreadPool_CJL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadPool_CJL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

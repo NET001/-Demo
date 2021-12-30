@@ -18,7 +18,8 @@ class Program
         var services = new ServiceCollection();
         services
             .AddSingleton<IHostEnvironment>(new HostingEnvironment { EnvironmentName = environment })
-            .AddOptions<DateTimeFormatOptions>().Configure<IHostEnvironment>(
+            .AddOptions<DateTimeFormatOptions>()
+            .Configure<IHostEnvironment>(
         (options, env) => {
             if (env.IsDevelopment())
             {

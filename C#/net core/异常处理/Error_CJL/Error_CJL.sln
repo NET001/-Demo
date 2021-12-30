@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Error_CJL", "Error_CJL\Error_CJL.csproj", "{DDCDB3B8-9F71-4285-A79B-B8C983BFE017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCDB3B8-9F71-4285-A79B-B8C983BFE017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCDB3B8-9F71-4285-A79B-B8C983BFE017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCDB3B8-9F71-4285-A79B-B8C983BFE017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCDB3B8-9F71-4285-A79B-B8C983BFE017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97171B89-39F2-4D92-A695-66B7CF5F06A5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPAsY8QWa1BfWyFfgakByDvU8JUttKEZfmVHd1dd6IPgz5vSs2vcvW3IUtb0Sxd/8bkLhv4mTgga/WQ8YPUIkw==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core\\DI\\DI2_CJL\\DI_CJL\\DI_CJL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

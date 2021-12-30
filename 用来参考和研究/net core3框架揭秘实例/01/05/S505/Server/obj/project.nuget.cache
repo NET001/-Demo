@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8PMLQyDGJ0s3slwKG+bu2T3zy7ngZEJEdqJ1A9Fvo6xgEr9Lpela5ZgSJbK9sqhgSJbWnOdiFWlON3CPFLKXg==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\05\\S505\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0-preview8.19405.4\\microsoft.extensions.fileproviders.abstractions.3.0.0-preview8.19405.4.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.0.0-preview8.19405.4\\microsoft.extensions.fileproviders.physical.3.0.0-preview8.19405.4.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.0.0-preview8.19405.4\\microsoft.extensions.filesystemglobbing.3.0.0-preview8.19405.4.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0-preview8.19405.4\\microsoft.extensions.primitives.3.0.0-preview8.19405.4.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\newtonsoft.json\\12.0.3-beta1\\newtonsoft.json.12.0.3-beta1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0-preview8.19405.3\\system.runtime.compilerservices.unsafe.4.6.0-preview8.19405.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

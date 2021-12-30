@@ -17,3 +17,16 @@ D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.Cor
 E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.dll
 E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\ref\async_await.dll
 E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.exe
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.deps.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.runtimeconfig.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.runtimeconfig.dev.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\ref\async_await.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\bin\Debug\net5.0\async_await.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.AssemblyInfo.cs
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\async_await\obj\Debug\net5.0\async_await.genruntimeconfig.cache

@@ -52,7 +52,9 @@ namespace StaticFiles_CJL
         static void Demo3()
         {
             Host.CreateDefaultBuilder()
-                .ConfigureWebHostDefaults(builder => builder.Configure(
+                .ConfigureWebHostDefaults(builder => builder
+                .ConfigureServices(scvs => scvs.Clear())
+                .Configure(
                     app => app
                     //默认以wwwroot文件
                     .UseStaticFiles()
@@ -70,7 +72,8 @@ namespace StaticFiles_CJL
                         FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "doc")),
                         RequestPath = "/documents"
                     })
-                    ))
+                    )
+                )
                 .Build()
                 .Run();
 

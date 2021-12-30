@@ -26,6 +26,7 @@ namespace Host_CJL
         {
             new HostBuilder()
                 .ConfigureServices(svcs => svcs
+                    .AddHostedService<PerformanceMetricsCollector>()
                     .AddSingleton<IHostedService, PerformanceMetricsCollector>())
                 //在调用Build方法创建作为宿主的IHost对象之前，它包括承载服务在内的所有服务都是通过ConfigureServices方法进行注册
                 .Build()
@@ -45,7 +46,6 @@ namespace Host_CJL
                 Console.WriteLine("Callback");
             }
         }
-
         public Task StopAsync(CancellationToken cancellationToken)
         {
             _scheduler?.Dispose();

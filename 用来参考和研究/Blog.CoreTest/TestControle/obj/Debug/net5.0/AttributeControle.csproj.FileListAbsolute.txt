@@ -28,3 +28,19 @@ D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.Cor
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\ref\AttributeControle.dll
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.pdb
 D:\document\net core\前后端分离管理系统\BlogCore\Blog.CoreTest\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.genruntimeconfig.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.exe
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.deps.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.runtimeconfig.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.runtimeconfig.dev.json
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\ref\AttributeControle.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\bin\Debug\net5.0\AttributeControle.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.AssemblyInfo.cs
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\ref\AttributeControle.dll
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.pdb
+E:\CJL_学习\Dome\用来参考和研究\Blog.CoreTest\TestControle\obj\Debug\net5.0\AttributeControle.genruntimeconfig.cache

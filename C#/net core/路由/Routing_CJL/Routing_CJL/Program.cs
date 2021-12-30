@@ -15,6 +15,7 @@ namespace Routing_CJL
                     .ConfigureServices(svcs => svcs.AddRouting())
                     .Configure(app => app
                         .UseRouting()
+                        //可以配置路由约束
                         .UseEndpoints(null)
                     ))
                 .Build()

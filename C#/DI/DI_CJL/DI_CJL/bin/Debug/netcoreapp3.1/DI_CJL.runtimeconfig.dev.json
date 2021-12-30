@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\CJL\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\CJL\\.nuget\\packages",
-      "D:\\software\\vs2019\\Shared\\NuGetPackages"
-    ]
-  }
-}

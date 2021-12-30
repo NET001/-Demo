@@ -1,0 +1,33 @@
+﻿<Project>
+	<PropertyGroup>
+		<Authors>百小僧</Authors>
+		<Company>Baiqian Co.,Ltd.</Company>
+		<Product>Furion</Product>
+		<Copyright>© 2020-2021 百小僧, Baiqian Co.,Ltd.</Copyright>
+		<RepositoryUrl>https://gitee.com/dotnetchina/Furion</RepositoryUrl>
+		<RepositoryType>Gitee</RepositoryType>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageLicenseExpression>MulanPSL-2.0</PackageLicenseExpression>
+		<PackageProjectUrl>https://furion.icu</PackageProjectUrl>
+		<PackageIcon>icon.png</PackageIcon>
+		<PackageOutputPath>../nupkgs</PackageOutputPath>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<DocumentationFile>$(MSBuildProjectName).xml</DocumentationFile>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="icon.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
+</Project>

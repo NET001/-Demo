@@ -16,10 +16,20 @@ namespace App
                 ["foo:contactInfo:emailAddress"] = "foo@outlook.com",
                 ["foo:contactInfo:phoneNo"] = "123",
 
+                ["foo:gender"] = "男",
+                ["foo:age"] = "18",
+                ["foo:contactInfo:emailAddress"] = "foo@outlook.com",
+                ["foo:contactInfo:phoneNo"] = "123",
+
                 ["bar:gender"] = "Male",
                 ["bar:age"] = "25",
                 ["bar:contactInfo:emailAddress"] = "bar@outlook.com",
                 ["bar:contactInfo:phoneNo"] = "456",
+
+                ["abc:gender"] = "Male",
+                ["abc:age"] = "25",
+                ["abc:contactInfo:emailAddress"] = "bar@outlook.com",
+                ["abc:contactInfo:phoneNo"] = "456",
 
                 ["baz:gender"] = "Female",
                 ["baz:age"] = "36",
