@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "42gTDsdt4JcJb72qy9vtpY/DJkuhj2HZhUBDjMajKbT+oj+lfyqDb4cBgNOhgFn3JR831PtlKk2F04T4Inq/9g==",
+  "dgSpecHash": "EnUluJ51EGl6I1BZr4rDpIaslOQvJ4Ynle97I+FGaTXWfxNJYu0fmgr8rluXOFpcZ2hE2WaPxQWuo5DPiBZhGw==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\文件操作\\IO_CJL\\IO_CJL\\IO_CJL.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\5.0.11\\microsoft.extensions.fileproviders.embedded.5.0.11.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/0+NXBs5vEcpT7HDlfcK5JooopdoybnXpc+InaX3o7+ScpvEbqRuFohKiTzgjwrPZqtdzIDE8PghYk9aTUGlsA==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\对象池\\ObjectPool_CJL\\ObjectPool_CJL\\ObjectPool_CJL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.1\\microsoft.extensions.objectpool.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.exe
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.deps.json
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.dll
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\ObjectPool_CJL.pdb
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.csprojAssemblyReference.cache
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.dll
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.pdb
+E:\CJL_学习\Dome\C#\对象池\ObjectPool_CJL\ObjectPool_CJL\obj\Debug\netcoreapp3.1\ObjectPool_CJL.genruntimeconfig.cache

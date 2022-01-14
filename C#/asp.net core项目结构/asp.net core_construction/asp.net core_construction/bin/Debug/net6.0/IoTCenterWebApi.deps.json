@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IoTCenterWebApi/1.0.0": {
+        "dependencies": {
+          "Module1": "1.0.0"
+        },
+        "runtime": {
+          "IoTCenterWebApi.dll": {}
+        }
+      },
+      "Module1/1.0.0": {
+        "runtime": {
+          "Module1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IoTCenterWebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Module1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

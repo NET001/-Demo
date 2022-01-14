@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i9qfmPljqF93YGbrvFNK77GMlRK936Z3ATD803lwFAA=",
+  "Source": "IoTCenterWebApi",
+  "BasePath": "_content/IoTCenterWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EventBusDelegat_CJL/1.0.0": {
+        "runtime": {
+          "EventBusDelegat_CJL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventBusDelegat_CJL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

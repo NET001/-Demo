@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "z1oBYrNI7nXT8PTyoOvUugc7U+J2KbqxG0VNS2GfLDhVCaxZQ0lrYE3nks796TnV55DOcdeICE+J7jYmb6P1MQ==",
+  "dgSpecHash": "KdjswgvcNfIV45VdoKAHPOFN/gwuP8Yw0b+aJlzsDbR71qpaGtCItjdROwUyflaud6oqAUwI1NlnofshrKvfUQ==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\反射\\ReflectTest\\ReflectTest\\ReflectTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

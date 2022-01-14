@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84ea72eb-ed3d-4cb6-90d5-56b1ab81672d": {
+      "ProjectGuid": "84ea72eb-ed3d-4cb6-90d5-56b1ab81672d",
+      "DisplayName": "IoTCenterWebApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "7d8e8435-4890-4ba4-8208-f38527c4fcce": {
+      "ProjectGuid": "7d8e8435-4890-4ba4-8208-f38527c4fcce",
+      "DisplayName": "Module1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

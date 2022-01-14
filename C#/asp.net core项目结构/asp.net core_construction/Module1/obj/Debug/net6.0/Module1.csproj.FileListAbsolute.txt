@@ -1,0 +1,12 @@
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\bin\Debug\net6.0\Module1.deps.json
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\bin\Debug\net6.0\Module1.dll
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\bin\Debug\net6.0\ref\Module1.dll
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\bin\Debug\net6.0\Module1.pdb
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.dll
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\ref\Module1.dll
+E:\CJL_学习\Dome\C#\asp.net core项目结构\asp.net core_construction\Module1\obj\Debug\net6.0\Module1.pdb
