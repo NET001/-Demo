@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\document\\Dome\\数据结构\\队列\\Queue\\Queue\\Queue.csproj": {}
+  },
+  "projects": {
+    "D:\\document\\Dome\\数据结构\\队列\\Queue\\Queue\\Queue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\document\\Dome\\数据结构\\队列\\Queue\\Queue\\Queue.csproj",
+        "projectName": "Queue",
+        "projectPath": "D:\\document\\Dome\\数据结构\\队列\\Queue\\Queue\\Queue.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\数据结构\\队列\\Queue\\Queue\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
