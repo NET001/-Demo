@@ -24,7 +24,6 @@ E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\bin\Debug\netcoreap
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
-E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.csprojAssemblyReference.cache
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.AssemblyInfoInputs.cache
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.AssemblyInfo.cs
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.csproj.CoreCompileInputs.cache
@@ -32,3 +31,5 @@ E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreap
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.dll
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.pdb
 E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\数据结构\链表\Linked_CJL\Linked_CJL\obj\Debug\netcoreapp3.1\Linked_CJL.GeneratedMSBuildEditorConfig.editorconfig

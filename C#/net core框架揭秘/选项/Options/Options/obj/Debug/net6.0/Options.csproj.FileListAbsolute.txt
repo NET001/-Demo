@@ -1,0 +1,16 @@
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\Options.exe
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\profile.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\Options.deps.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\Options.runtimeconfig.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\Options.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\ref\Options.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\bin\Debug\net6.0\Options.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\ref\Options.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\选项\Options\Options\obj\Debug\net6.0\Options.genruntimeconfig.cache

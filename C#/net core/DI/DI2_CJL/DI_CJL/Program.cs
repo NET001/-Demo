@@ -19,12 +19,14 @@ namespace DI_CJL
     {
         static void Main(string[] args)
         {
+            Demo1();
+
             //ServiceCollection为IServiceCollection的默认实现,最后的BuildServiceProvider方法构建了一个容器对象
-           
+
             IServiceCollection serviceCollection = new ServiceCollection()
               .AddTransient<IFoo, Foo>()
               .AddScoped<IBar, Bar>();
-            
+
             //Tryxxx扩展,若存在就不会在添加
             serviceCollection.TryAddTransient<IFoo, Foo>();
 
@@ -64,12 +66,32 @@ namespace DI_CJL
         {
             return new ServiceCollection().AddTransient(typeof(IFoobar<,>), typeof(Foobar<,>)).BuildServiceProvider();
         }
-
-        private static void Demo1<T1,T2>()
-        { 
-            
+        /// <summary>
+        /// 全局实例,容器只会创建一次
+        /// </summary>
+        private static void Demo1()
+        {
+            ServiceCollection services = new ServiceCollection();
+            services.AddSingleton<Demo1Obj>((_) =>
+            {
+                return new Demo1Obj();
+            });
+            ServiceProvider serviceProvider = services.BuildServiceProvider();
+            Demo1Obj obj1 = serviceProvider.GetRequiredService<Demo1Obj>();
+            Demo1Obj obj2 = serviceProvider.GetRequiredService<Demo1Obj>();
+            Demo1Obj obj3 = serviceProvider.GetRequiredService<Demo1Obj>();
+            Console.ReadKey();
+            return;
+        }
+        class Demo1Obj
+        {
+            public Demo1Obj()
+            {
+                Console.WriteLine("创建了Demo1Obj实例");
+            }
         }
     }
+
     public interface IFoo { }
     public interface IBar { }
     public interface IBaz { }

@@ -1,0 +1,15 @@
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\DI.exe
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\DI.deps.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\DI.runtimeconfig.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\DI.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\ref\DI.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\DI.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\ref\DI.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.genruntimeconfig.cache

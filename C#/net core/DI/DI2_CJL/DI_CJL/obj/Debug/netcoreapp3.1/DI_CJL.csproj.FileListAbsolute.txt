@@ -14,3 +14,20 @@ E:\CJL_学习\Dome\C#\DI\DI_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.csproj.Cop
 E:\CJL_学习\Dome\C#\DI\DI_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.dll
 E:\CJL_学习\Dome\C#\DI\DI_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.pdb
 E:\CJL_学习\Dome\C#\DI\DI_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.exe
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.deps.json
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.dll
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\DI_CJL.pdb
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.dll
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.pdb
+E:\CJL_学习\Dome\C#\net core\DI\DI2_CJL\DI_CJL\obj\Debug\netcoreapp3.1\DI_CJL.genruntimeconfig.cache

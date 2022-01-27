@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDGACdy1XZ8zNyETGbD7dJNEOoxM7oBDN/UT40H+pVv8bxIy0ZsJoBDy6s43IL+fIeWidkuoqCd62+L3KKLwcA==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\文件系统\\File\\File\\File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

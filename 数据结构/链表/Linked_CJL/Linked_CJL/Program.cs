@@ -27,7 +27,7 @@ namespace Linked_CJL
             //    }
             //});
 
-            Demo1();
+            Demo3();
             Console.ReadKey();
         }
         static void Demo1()
@@ -84,7 +84,11 @@ namespace Linked_CJL
         }
         static void Demo3()
         {
-
+            LinkedList<string> linkedList = new LinkedList<string>();
+            linkedList.AddFirst("1");
+            linkedList.AddFirst("2");
+            linkedList.AddFirst("3");
+            linkedList.AddFirst("4");
         }
     }
 }

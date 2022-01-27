@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "80WZkVSOuy4ivmwnM7zhKHklcMgbb44wWK/kDXO6OZ85mJz3IhYI1ajpJrFbG0m3nPlhcefljw0lIpG+9CRbBw==",
+  "dgSpecHash": "K4Xqsg0NLlpwB/uR7GX+hbX8TTU4nUeUPnG/Om/XGkxX0bdZfo2nYfyOwA8s7v/B/zA84B+3+Q75RCSP2EUKag==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\数据结构\\链表\\Linked_CJL\\Linked_CJL\\Linked_CJL.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,8 @@
     "C:\\Users\\ganwe\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

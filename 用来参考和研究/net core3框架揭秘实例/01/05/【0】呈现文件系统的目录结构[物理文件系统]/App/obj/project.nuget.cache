@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrXG66CZBz5z3I5zeUG//k6vrWYDftBF0ADZImuBr189GhuOckLgv1pNmU+nv88b91DuhvesUCo2gE0cxm9hdA==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\05\\【0】呈现文件系统的目录结构[物理文件系统]\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIZQCtiB633aFtBvAHFnUWYVo1urNvtMRatNA1KXEVzgbpLN0pH06V+03yRXlSaWMBBJ9VU0r6oROu7sj5raOA==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\06\\【9】针对集合和数组的配置绑定\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
