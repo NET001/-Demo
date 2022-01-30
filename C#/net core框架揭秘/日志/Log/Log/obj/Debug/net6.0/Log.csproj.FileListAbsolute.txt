@@ -1,0 +1,16 @@
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Log.exe
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Log.deps.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Log.runtimeconfig.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Log.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\ref\Log.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Log.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\ref\Log.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.csproj.CopyComplete

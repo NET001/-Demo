@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqseWeAu7Xbyspc9VEXrCIJSe2jzwOYi1L0I9gy5ZImCMOBCMfNIQStkfnqJj0Iv66Lll/jowZ2NmgIzGREqFg==",
+  "dgSpecHash": "MHEaJHnriduFjYj6RdbO0Tt+5Ku9h8958q0PrewJcgB2TKlIsxWOCoz5kANmZYsxT/a84O1jT52HjJqcO8Yr7g==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\S901\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\【0】针对控制台和Debugger的日志输出\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

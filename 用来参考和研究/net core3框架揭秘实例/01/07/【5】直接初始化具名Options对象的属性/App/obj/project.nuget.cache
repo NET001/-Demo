@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GpKTyiDzTxKuzR4+iRFy/JLQ7iU6glMc1fFj8vnDdjVCNG22iUEXS0zipHNmC4Qhtqne74Gr7lRBp0HXL1FK/Q==",
+  "dgSpecHash": "9HiLLstmTrOR86nJ4qLDDl8/qMqE96UJWf/ykgSDAHZlqBHrU+6jioHO2uA8H4gN8ySAHeleDvKUC06U2PNOyg==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S706\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【5】直接初始化具名Options对象的属性\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

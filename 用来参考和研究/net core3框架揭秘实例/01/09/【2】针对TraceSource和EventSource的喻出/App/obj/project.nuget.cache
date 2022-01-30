@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sr75VFCi+0w01DbKD/WXLNzn09poQ9A5+2vDQnpPDuEtSigLmYoYqxBk7q2SzsixZDGsU3jJyJA1ozX7sg0a/A==",
+  "dgSpecHash": "xUCrDvzAt+J5S9oROQTjI/y2nSdIliqYSrAlKzUHXgviHeK1XWkp0TbsPwGYKhN87EUR4zql+AB2jJMsDl1voA==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\S903\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\【2】针对TraceSource和EventSource的喻出\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

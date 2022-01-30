@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3z0UzL0ZWoFjeAKeqAmO5DgW6mAoGUmdmkPbvZ4tmwD+B2l4Q0Yj/xnwRllofff75zwJluHZHWkm70ntg54/XA==",
+  "dgSpecHash": "qrA1zUFSdgGW4P/UFW58wY5t7ZTHQzsIARejq3KdFmqQuzv6wyhv2+hWpRka71ivVMxbr9xD9O1t66XKJUv53A==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S709\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【8】Options对象的生命周期\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

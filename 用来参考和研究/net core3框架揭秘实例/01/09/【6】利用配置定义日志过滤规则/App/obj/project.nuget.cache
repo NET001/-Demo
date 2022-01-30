@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lOH9bj+EC9eA0oFGnOaNaCI2q3/ODdoHAKIep+2eLps6ir+1rtN1jpDj3zLGhrNWLBqCWsgSdI6oxgkbF7tYQ==",
+  "dgSpecHash": "RcEf4GYN8Z+aG1XLR43R55UXwLmbmuO4f/AmEq+N0Bku3nV3HcZpkuFLXfIbqvyelhBiJXwEjO1e/vWyzrY2PA==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\S907\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\【6】利用配置定义日志过滤规则\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

@@ -13,3 +13,6 @@ E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\D
 E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\ref\DI.dll
 E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.pdb
 E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\服务注册\DI\DI\obj\Debug\net6.0\DI.csproj.CopyComplete

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/OzRvRlhKixdcp8ipE56850ahZcvi5ViZS3fDNAOKBWGzWrUICVq0i/8HV3lGG/vm9PWB1Qb9GieePhmQ3lpFQ==",
+  "dgSpecHash": "blrU3VdNYHJy8lTrerfoGpK8tUTf5BSCnKdBV3uIyidf/a8kH9N0i59dwIgMq+l5tgvla4RRqXaTYCx5H0//fQ==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

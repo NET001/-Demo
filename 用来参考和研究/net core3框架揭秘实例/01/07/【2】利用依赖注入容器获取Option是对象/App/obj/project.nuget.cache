@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9JuMuWYQzXMULSzh5Y+Awl5lWfd0eMelZYkjMYC8GG9dsUVyJA7PXOD5Esc0ok+zhk3YDj3oIJECqmGHIPInrw==",
+  "dgSpecHash": "TiITNvhEVaK75+DwFIO+/AEK4r8XM58VrkYmT5axQx0AEiTlycn70bBcsCjE0gxoxvf2qrESpImCQO1fyOYFoQ==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S703\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【2】利用依赖注入容器获取Option是对象\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

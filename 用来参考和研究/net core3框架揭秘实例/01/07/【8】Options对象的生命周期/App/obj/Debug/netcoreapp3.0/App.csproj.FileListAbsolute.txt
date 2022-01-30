@@ -1,0 +1,14 @@
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.exe
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.deps.json
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.json
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.runtimeconfig.dev.json
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.dll
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\bin\Debug\netcoreapp3.0\App.pdb
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.AssemblyInfo.cs
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.dll
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.pdb
+E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\07\【8】Options对象的生命周期\App\obj\Debug\netcoreapp3.0\App.genruntimeconfig.cache

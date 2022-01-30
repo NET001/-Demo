@@ -1,8 +1,18 @@
 {
-  "gender": "Male",
-  "age": "18",
-  "contactInfo": {
-    "emailAddress": "foobar@outlook.com",
-    "phoneNo": "123456789"
+  "foo": {
+    "gender": "Male",
+    "age": "18",
+    "contactInfo": {
+      "emailAddress": "foo@outlook.com",
+      "phoneNo": "123"
+    }
+  },
+  "bar": {
+    "gender": "Female",
+    "age": "25",
+    "contactInfo": {
+      "emailAddress": "bar@outlook.com",
+      "phoneNo": "456"
+    }
   }
 }

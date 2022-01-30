@@ -1,0 +1,15 @@
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\Host.exe
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\Host.deps.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\Host.runtimeconfig.json
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\Host.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\ref\Host.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\bin\Debug\net6.0\Host.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\ref\Host.dll
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.pdb
+E:\CJL_学习\Dome\C#\net core框架揭秘\承载系统\Host\Host\obj\Debug\net6.0\Host.genruntimeconfig.cache

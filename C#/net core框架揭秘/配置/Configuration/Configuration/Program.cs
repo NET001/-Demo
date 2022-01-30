@@ -1,8 +1,11 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Memory;
 using Microsoft.Extensions.Configuration.Xml;
 using Microsoft.Extensions.Primitives;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Globalization;
 using System.Xml;
 
@@ -246,7 +249,7 @@ public class Program
             .Build();
     }
     /// <summary>
-    /// 从Xml中获取
+    /// 对原有xml获取进行扩展
     /// </summary>
     static void Demo10()
     {
@@ -255,8 +258,34 @@ public class Program
             .Build();
         var collection = configuration.Get<IEnumerable<Profile>>();
     }
+    /// <summary>
+    /// 自定义一个从数据源获取的配置（最终是给ConfigurationProvider的Data进行赋值）
+    /// </summary>
+    static void Demo11()
+    {
+        var initialSettings = new Dictionary<string, string>
+        {
+            ["Gender"] = "Male",
+            ["Age"] = "18",
+            ["ContactInfo:EmailAddress"] = "foobar@outlook.com",
+            ["ContactInfo:PhoneNo"] = "123456789"
+        };
 
+
+        var profile = new ConfigurationBuilder()
+            .AddJsonFile("Database.json")
+            .AddDatabase("DefaultDb", initialSettings)
+            .Build()
+            .Get<Profile>();
+
+
+        Console.WriteLine(profile.Gender == Gender.Male);
+        Console.WriteLine(profile.Age == 18);
+        Console.WriteLine(profile.ContactInfo.EmailAddress == "foobar@outlook.com");
+        Console.WriteLine(profile.ContactInfo.PhoneNo == "123456789");
+    }
 }
+
 #region 实体
 public class FormatOptions
 {
@@ -318,8 +347,7 @@ public class Point
 }
 #endregion
 
-
-#region 实现数据源读取
+#region 对Xml的扩展
 public class ExtendedXmlConfigurationSource : XmlConfigurationSource
 {
     public override IConfigurationProvider Build(IConfigurationBuilder builder)
@@ -418,6 +446,106 @@ public class ExtendedXmlConfigurationProvider : XmlConfigurationProvider
     }
 }
 
+#endregion
 
+#region 实现一个添加的数据源
 
+public static class DbConfigurationExtensions
+{
+    public static IConfigurationBuilder AddDatabase(this IConfigurationBuilder builder, string connectionStringName,
+        IDictionary<string, string> initialSettings = null)
+    {
+        var connectionString = builder.Build()
+            .GetConnectionString(connectionStringName);
+        var source = new DbConfigurationSource(optionsBuilder => optionsBuilder.UseSqlServer(connectionString),
+            initialSettings);
+        builder.Add(source);
+        return builder;
+    }
+}
+public class DbConfigurationSource : IConfigurationSource
+{
+    private Action<DbContextOptionsBuilder> _setup;
+    private IDictionary<string, string> _initialSettings;
+
+    public DbConfigurationSource(Action<DbContextOptionsBuilder> setup, IDictionary<string, string> initialSettings = null)
+    {
+        _setup = setup;
+        _initialSettings = initialSettings;
+    }
+    public IConfigurationProvider Build(IConfigurationBuilder builder)
+    {
+        return new DbConfigurationProvider(_setup, _initialSettings);
+    }
+
+}
+
+public class DbConfigurationProvider : ConfigurationProvider
+{
+    private readonly IDictionary<string, string> _initialSettings;
+    private readonly Action<DbContextOptionsBuilder> _setup;
+
+    public DbConfigurationProvider(Action<DbContextOptionsBuilder> setup,
+        IDictionary<string, string> initialSettings)
+    {
+        _setup = setup;
+        _initialSettings = initialSettings ?? new Dictionary<string, string>();
+    }
+
+    public override void Load()
+    {
+        var builder = new DbContextOptionsBuilder<ApplicationSettingsContext>();
+        _setup(builder);
+        using (ApplicationSettingsContext dbContext = new ApplicationSettingsContext(builder.Options))
+        {
+            dbContext.Database.EnsureCreated();
+            Data = dbContext.Settings.Any()
+                ? dbContext.Settings.ToDictionary(it => it.Key, it => it.Value, StringComparer.OrdinalIgnoreCase)
+                : Initialize(dbContext);
+        }
+    }
+
+    private IDictionary<string, string> Initialize(ApplicationSettingsContext dbContext)
+    {
+        foreach (var item in _initialSettings)
+        {
+            dbContext.Settings.Add(new ApplicationSetting(item.Key, item.Value));
+        }
+        return _initialSettings.ToDictionary(it => it.Key, it => it.Value, StringComparer.OrdinalIgnoreCase);
+    }
+}
+
+public class ApplicationSettingsContext : DbContext
+{
+    public ApplicationSettingsContext(DbContextOptions options) : base(options)
+    { }
+
+    public DbSet<ApplicationSetting> Settings { get; set; }
+}
+
+[Table("ApplicationSettings")]
+public class ApplicationSetting
+{
+    private string key;
+
+    [Key]
+    public string Key
+    {
+        get { return key; }
+        set { key = value.ToLowerInvariant(); }
+    }
+
+    [Required]
+    [MaxLength(512)]
+    public string Value { get; set; }
+
+    public ApplicationSetting()
+    { }
+
+    public ApplicationSetting(string key, string value)
+    {
+        Key = key;
+        Value = value;
+    }
+}
 #endregion

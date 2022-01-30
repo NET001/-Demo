@@ -19,8 +19,7 @@ class Program
         services
             .AddSingleton<IHostEnvironment>(new HostingEnvironment { EnvironmentName = environment })
             .AddOptions<DateTimeFormatOptions>()
-            .Configure<IHostEnvironment>(
-        (options, env) => {
+            .Configure<IHostEnvironment>((options, env) => {
             if (env.IsDevelopment())
             {
                 options.DatePattern = "dddd, MMMM d, yyyy";

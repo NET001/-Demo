@@ -13,7 +13,8 @@ namespace App
         {
             var logger = new ServiceCollection()
                 .AddLogging(builder => builder
-                    .SetMinimumLevel(LogLevel.Trace)
+                    //设置最小日志级别
+                    .SetMinimumLevel(LogLevel.Information)
                     .AddConsole())
                 .BuildServiceProvider()
                 .GetRequiredService<ILoggerFactory>()

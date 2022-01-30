@@ -6,7 +6,14 @@ class Program
 {
     static void Main()
     {
-        //服务注册
+        Demo3();
+        Console.Read();
+    }
+    /// <summary>
+    /// 容器的使用
+    /// </summary>
+    static void Demo1()
+    {    //服务注册
         var provider = new ServiceCollection()
             .AddTransient<IFoo, Foo>()
             //方法委托
@@ -32,7 +39,33 @@ class Program
         provider.GetService<IBar>();
         provider.GetService<IBaz>();
     }
+    //多个相同实例的注入
+    static void Demo2()
+    {
+        var provider = new ServiceCollection()
+            .AddSingleton(new Obj1() { C1 = "1" })
+            .AddSingleton(new Obj1() { C1 = "2" })
+            .AddSingleton(new Obj1() { C1 = "3" })
+            .BuildServiceProvider();
+        var objs = provider.GetServices<Obj1>();
+    }
+    /// <summary>
+    /// 修改容器返回的对象
+    /// </summary>
+    static void Demo3()
+    {
+        var provider = new ServiceCollection()
+            .AddSingleton(new Obj1() { C1 = "1" })
+            .BuildServiceProvider();
+        provider.GetService<Obj1>().C1 = "2";
+        Obj1 obj1 = provider.GetService<Obj1>();
+    }
 }
+public class Obj1
+{
+    public string C1 { get; set; }
+}
+
 public interface IFoo { }
 public interface IBar { }
 public interface IBaz { }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZOHx530zWigVI3WIKBQGBdqgl3sUS+SQU1BsAuH/WF8m3U6L3K7jgmYpa8SST/9cZX86n9UXNJQKxsKLhqGRYg==",
+  "dgSpecHash": "CBWTLu/zdu1mgknNfOgsEDWUF1vhs8AS6MlBi1Q5qg5vDGhPBjnYJpsWVclRYALl7E3HMPEdz83IfQaBejx8rw==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\S908\\App\\App.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\09\\【7】利用日志范围描述当前上下文\\App\\App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

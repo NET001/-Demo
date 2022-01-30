@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\App.csproj": {}
+    "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\App.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\App.csproj": {
+    "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\App.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\App.csproj",
         "projectName": "App",
-        "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\App.csproj",
+        "projectPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\App.csproj",
         "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\S704\\App\\obj\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\07\\【3】Options对象与配置源同步\\App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
