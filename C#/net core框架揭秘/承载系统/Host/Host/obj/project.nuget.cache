@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2UFetpPy3peeDPRusdTg41GFqVWy83CgcM0z4//mINfVmbpdvuTSRfhZM/yXxsXIrd4D+8GiiY2td6gGHGuXPQ==",
+  "dgSpecHash": "3WBQg17rxutHR4hJLs9dTuDOj1K0SL4W/sPhTVQ6ymH2Mc2gKw+utvMArkfV8L1Qx4hVYRPyfxxDk/f2lcN3sw==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\承载系统\\Host\\Host\\Host.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

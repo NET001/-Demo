@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj": {}
+    "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj": {
+    "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj",
+        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj",
         "projectName": "SocketClient_CJL",
-        "projectPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj",
+        "projectPath": "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SocketClient\\SocketClient_CJL.csproj",
         "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SocketClient\\obj\\",
+        "outputPath": "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SocketClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,12 +61,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

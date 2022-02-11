@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HWpQW343RKyCKd+YiUPH/0gfmP06CbrQIouwn/v9CY+6EVNxIgnRDuMOxcMumZjaBzSp5SsbSoH5jdBoFm5feA==",
+  "dgSpecHash": "ZPGM4PikBW6f2YheJc/a1J+L0w4l8qUBAG0ReZSao9miGFYqeRhzSBng6QtAZGGxHWqzHBzc2YbHe1t4CxFnMQ==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\SuperSocket\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\SuperSocket\\SuperSocket_CJL\\SuperSocketServer_CJL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.10\\microsoft.extensions.configuration.abstractions.3.1.10.nupkg.sha512",
@@ -43,7 +43,8 @@
     "C:\\Users\\ganwe\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

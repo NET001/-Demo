@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "uXYhYU9BV3szdUPWyYfSSxRxOUL1L7+Jf/c807ZVMD6A0laEKpbzFpDekFjnzSjJJVOv4GLEEyZeLaDLQ4F3hQ==",
+  "dgSpecHash": "5pGFn4E5gGLkCFxwznWWqwHFfxFgRYK9BNX5jtdP2kynJCVK+dbkLnFhnUo2a/Nn50CwIascSiycLSctAcnHUw==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\服务注册\\DI\\DI\\DI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

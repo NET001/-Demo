@@ -3,6 +3,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Autofac.Extensions.DependencyInjection;
 using System.IO;
 
 class Program
@@ -56,6 +57,17 @@ class Program
             .ConfigureServices(svcs => svcs.AddHostedService<FakeHostedService>())
             .Build()
             .Run();
+    }
+    /// <summary>
+    /// 使用第三方框架替换原有容器的能力
+    /// </summary>
+    static void Demo4()
+    {
+        Host
+        .CreateDefaultBuilder()
+        //添加Autofac的能力
+        .UseServiceProviderFactory(new AutofacServiceProviderFactory())
+        .Build();
     }
 }
 

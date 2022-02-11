@@ -1,5 +1,5 @@
 ﻿
-
+using Autofac.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection;
 
 class Program
@@ -60,6 +60,7 @@ class Program
         provider.GetService<Obj1>().C1 = "2";
         Obj1 obj1 = provider.GetService<Obj1>();
     }
+
 }
 public class Obj1
 {
