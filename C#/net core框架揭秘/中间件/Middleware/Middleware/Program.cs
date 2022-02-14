@@ -2,12 +2,15 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.StaticFiles;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -19,7 +22,9 @@ namespace Middleware
         {
             Demo1();
         }
-        //注册中间件
+        /// <summary>
+        /// 注册中间件
+        /// </summary>
         static void Demo1()
         {
             Func<RequestDelegate, RequestDelegate> func1 = new Func<RequestDelegate, RequestDelegate>((RequestDelegate next) =>
@@ -60,7 +65,9 @@ namespace Middleware
             .Build()
             .Run();
         }
-        //基于接口的中间件注册
+        /// <summary>
+        /// 基于接口的中间件注册
+        /// </summary>
         static void Demo2()
         {
             Host.CreateDefaultBuilder().ConfigureWebHostDefaults(builder => builder
@@ -73,7 +80,9 @@ namespace Middleware
          .Build()
          .Run();
         }
-        //基于约定的中间件注册
+        /// <summary>
+        /// 基于约定的中间件注册
+        /// </summary>
         static void Demo3()
         {
             Host.CreateDefaultBuilder().ConfigureWebHostDefaults(builder => builder
@@ -159,7 +168,10 @@ namespace Middleware
                 .Run();
 
         }
-        //输出打印日志
+        /// <summary>
+        /// 输出打印日志
+        /// </summary>
+        /// <exception cref="InvalidOperationException"></exception>
         static void Demo9()
         {
             Host.CreateDefaultBuilder()
@@ -175,6 +187,61 @@ namespace Middleware
                     }
                     return Task.CompletedTask;
                 })))
+                .Build()
+                .Run();
+        }
+        /// <summary>
+        /// 开启访问静态文件的能力
+        /// </summary>
+        static void Demo10()
+        {
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "doc");
+            var options = new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(path),
+                RequestPath = "/documents"
+            };
+            var fileProvider = new PhysicalFileProvider(path);
+            var diretoryOptions = new DirectoryBrowserOptions
+            {
+                FileProvider = fileProvider,
+                RequestPath = "/documents"
+            };
+            Host.CreateDefaultBuilder()
+                .ConfigureWebHostDefaults(builder => builder
+                    .Configure(app => app
+                        //开启静态文件访问默认wwwroot
+                        .UseStaticFiles()
+                        //提供访问指定文件夹
+                        .UseStaticFiles(options)
+                        //开启文件夹显示能力
+                        .UseDirectoryBrowser()
+                        .UseDirectoryBrowser(diretoryOptions))
+                    )
+                .Build().Run();
+        }
+        /// <summary>
+        /// 文件类型过滤
+        /// </summary>
+        static void Demo11()
+        {
+            var options = new StaticFileOptions
+            {
+                ServeUnknownFileTypes = true,
+                DefaultContentType = "image/jpg"
+            };
+            var contentTypeProvider = new FileExtensionContentTypeProvider();
+            contentTypeProvider.Mappings.Add(".img", "image/jpg");
+            var options2 = new StaticFileOptions
+            {
+                ContentTypeProvider = contentTypeProvider
+            };
+            Host.CreateDefaultBuilder()
+                .ConfigureWebHostDefaults(builder => builder.Configure(
+                    app => app
+                    .UseStaticFiles(options)
+                    .UseStaticFiles(options2)
+                    ))
                 .Build()
                 .Run();
         }

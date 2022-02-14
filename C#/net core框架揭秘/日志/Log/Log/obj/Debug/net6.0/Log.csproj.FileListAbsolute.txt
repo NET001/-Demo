@@ -14,3 +14,4 @@ E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.p
 E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.genruntimeconfig.cache
 E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\bin\Debug\net6.0\Newtonsoft.Json.dll
 E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\net core框架揭秘\日志\Log\Log\obj\Debug\net6.0\Log.csproj.AssemblyReference.cache

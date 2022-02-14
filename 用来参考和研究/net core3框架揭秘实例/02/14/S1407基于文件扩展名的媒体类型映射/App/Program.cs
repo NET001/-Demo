@@ -15,8 +15,17 @@ namespace App
             {
                 ContentTypeProvider = contentTypeProvider
             };
+            var contentTypeProvider2 = new FileExtensionContentTypeProvider();
+            contentTypeProvider.Mappings.Add(".img", "image/jpg");
+            var options2 = new StaticFileOptions
+            {
+                ContentTypeProvider = contentTypeProvider
+            };
             Host.CreateDefaultBuilder()
-                .ConfigureWebHostDefaults(builder => builder.Configure(app => app.UseStaticFiles(options)))
+                .ConfigureWebHostDefaults(builder => builder.Configure(app => app
+                .UseStaticFiles(options)
+                .UseStaticFiles(options2)
+                ))
                 .Build()
                 .Run();
         }

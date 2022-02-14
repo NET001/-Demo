@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bKnf8fS7UIDDIi5j5u/rQfRj+oPKWR92sdR+dL2UO1UxqANtLqzUpI1z+RSjr19WJgKEP6n9eWkBLjw/M2/gfA==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\02\\14\\S1404为目录定制默认页而（采用约定文件名）\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
