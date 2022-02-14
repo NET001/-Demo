@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05e25da6-414b-48ae-afcb-c90f7908baa6": {
+      "ProjectGuid": "05e25da6-414b-48ae-afcb-c90f7908baa6",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 0
+    },
+    "8cba565b-4a2c-41e7-b458-70fb9a763de5": {
+      "ProjectGuid": "8cba565b-4a2c-41e7-b458-70fb9a763de5",
+      "DisplayName": "GWSouthCoreDemo.STD",
+      "ColorIndex": 1
+    },
+    "eda76dc7-bdae-4b7f-86b8-f45b6dbba6e9": {
+      "ProjectGuid": "eda76dc7-bdae-4b7f-86b8-f45b6dbba6e9",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 2
+    },
+    "920d0950-0bb0-4624-86f8-61ea440314db": {
+      "ProjectGuid": "920d0950-0bb0-4624-86f8-61ea440314db",
+      "DisplayName": "SouthCore",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

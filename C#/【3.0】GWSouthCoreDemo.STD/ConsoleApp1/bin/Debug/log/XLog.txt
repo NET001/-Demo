@@ -1,0 +1,27 @@
+*******************************************2022年2月14日-21:51:06(服务端)*******************************************
+【GWSouthCoreDemo.STD】同步器DataSource运行了()
+**********************************************************************************************
+*******************************************2022年2月14日-21:51:11(服务端)*******************************************
+【GWSouthCoreDemo.STD】DataSource同步器异常过[60000]毫秒后重启(System.AggregateException: One or more errors occurred. (由于目标计算机积极拒绝，无法连接。)
+ ---> System.Net.Http.HttpRequestException: 由于目标计算机积极拒绝，无法连接。
+ ---> System.Net.Sockets.SocketException (10061): 由于目标计算机积极拒绝，无法连接。
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at GWSouthCoreDemo.STD.Services.HttpStartup.<>c.<ConfigureServices>b__0_1(HttpClient httpClient, Object[] parms) in E:\CJL_工作\其他\南向框架Demo\GWSouthCoreDemo.STD\【3.0】GWSouthCoreDemo.STD\GWSouthCoreDemo.STD\Services\Startup\HttpStartup.cs:line 28
+   at SouthCore.Default.Http.DefaultAppEquipHttpBuilderExtend.GetHttpSend(IServiceProvider serviceProvider, String name, Object[] parameter) in E:\CJL_工作\其他\南向框架Demo\GWSouthCoreDemo.STD\【3.0】GWSouthCoreDemo.STD\SouthCore\Default\SouthHostBuilder\Application\Http\DefaultAppEquipHttpBuilderExtend.cs:line 76
+   at SouthCore.Default.Synchronizer.DefaultAppEquipSynchronizerExeExtend.HttpMapCacheStorage[CacheT](IDefaultAppEquipSynchronizerExe exe, String httpName, Func`2 func, Object[] parameter) in E:\CJL_工作\其他\南向框架Demo\GWSouthCoreDemo.STD\【3.0】GWSouthCoreDemo.STD\SouthCore\Default\SouthHostBuilder\Application\Synchronizer\Execute\DefaultAppEquipSynchronizerExeExtend.cs:line 12
+   at GWSouthCoreDemo.STD.Services.SynchronizerStartup.<>c.<ConfigureServices>b__0_1(IDefaultAppEquipSynchronizerExe exe) in E:\CJL_工作\其他\南向框架Demo\GWSouthCoreDemo.STD\【3.0】GWSouthCoreDemo.STD\GWSouthCoreDemo.STD\Services\Startup\SynchronizerStartup.cs:line 21
+   at SouthCore.Default.GenericSouthHostService.<>c__DisplayClass2_0.<StartAsync>b__0() in E:\CJL_工作\其他\南向框架Demo\GWSouthCoreDemo.STD\【3.0】GWSouthCoreDemo.STD\SouthCore\Default\GenericSouthHostService.cs:line 36)
+**********************************************************************************************

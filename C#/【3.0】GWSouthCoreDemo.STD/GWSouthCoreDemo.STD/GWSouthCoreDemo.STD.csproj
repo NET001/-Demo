@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SouthCore\**" />
+    <EmbeddedResource Remove="SouthCore\**" />
+    <EntityDeploy Remove="SouthCore\**" />
+    <None Remove="SouthCore\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="GWDataCenter" Version="1.4.36" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SouthCore\SouthCore.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="IoTCustomDataCore">
+      <HintPath>Dll\IoTCustomDataCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Dll\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
