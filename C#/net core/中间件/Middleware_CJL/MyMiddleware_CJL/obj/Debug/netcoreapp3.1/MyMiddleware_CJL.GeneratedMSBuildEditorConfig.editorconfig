@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MyMiddleware_CJL
+build_property.ProjectDir = E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\MyMiddleware_CJL\

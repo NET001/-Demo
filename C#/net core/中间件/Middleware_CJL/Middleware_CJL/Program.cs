@@ -18,7 +18,7 @@ namespace Middleware_CJL
 
         static void Main(string[] args)
         {
-            Demo5();
+            Demo1();
         }
         //注册中间件
         static void Demo1()

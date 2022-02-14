@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AppStartup
+build_property.ProjectDir = E:\CJL_学习\Dome\用来参考和研究\net core3框架揭秘实例\01\11\【18】通过注量HostingStartup的方式执行初始化操\AppStartup\

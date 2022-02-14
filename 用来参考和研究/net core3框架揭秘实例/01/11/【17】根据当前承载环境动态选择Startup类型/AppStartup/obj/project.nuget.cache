@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUoJx0AEZZ7PZhJYYPmZrRiLgjVUq1CblGmsm+37jX/QdjqIQlDY3GPwXqOtU28pcQ4BO6rtbPVEqlVomeMJoQ==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\01\\11\\【17】根据当前承载环境动态选择Startup类型\\AppStartup\\AppStartup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

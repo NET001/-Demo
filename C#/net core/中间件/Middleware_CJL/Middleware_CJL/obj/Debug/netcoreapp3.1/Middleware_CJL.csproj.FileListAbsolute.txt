@@ -4,15 +4,14 @@ E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\bin\Debug
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\bin\Debug\netcoreapp3.1\Middleware_CJL.runtimeconfig.dev.json
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\bin\Debug\netcoreapp3.1\Middleware_CJL.dll
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\bin\Debug\netcoreapp3.1\Middleware_CJL.pdb
-E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.csprojAssemblyReference.cache
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.AssemblyInfoInputs.cache
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.AssemblyInfo.cs
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.csproj.CoreCompileInputs.cache
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.MvcApplicationPartsAssemblyInfo.cache
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\staticwebassets\Middleware_CJL.StaticWebAssets.Manifest.cache
-E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\staticwebassets\Middleware_CJL.StaticWebAssets.xml
-E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\scopedcss\bundle\Middleware_CJL.styles.css
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.RazorTargetAssemblyInfo.cache
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.dll
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.pdb
 E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\bin\Debug\netcoreapp3.1\Middleware_CJL.StaticWebAssets.xml
+E:\CJL_学习\Dome\C#\net core\中间件\Middleware_CJL\Middleware_CJL\obj\Debug\netcoreapp3.1\Middleware_CJL.GeneratedMSBuildEditorConfig.editorconfig

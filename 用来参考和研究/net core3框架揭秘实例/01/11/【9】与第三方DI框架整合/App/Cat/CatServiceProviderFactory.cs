@@ -31,5 +31,4 @@ namespace App
         public IServiceProvider CreateServiceProvider(CatBuilder containerBuilder)
             => containerBuilder.BuildServiceProvider();
     }
-
 }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "397fb635-75aa-43b2-9c32-0278e00fcae0": {
+      "ProjectGuid": "397fb635-75aa-43b2-9c32-0278e00fcae0",
+      "DisplayName": "MyMiddleware_CJL",
+      "ColorIndex": 0
+    },
+    "11120b15-b306-4a7c-82da-7fec4cf4f4c2": {
+      "ProjectGuid": "11120b15-b306-4a7c-82da-7fec4cf4f4c2",
+      "DisplayName": "Middleware_CJL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

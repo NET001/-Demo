@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RYc8Kln5ap1kq968Jk9w5EeXMpblk4xJPxPxjS/dvMvW3TvVW5Zoj2XtFaUjdsbKjCypjfzWFpU8OFIuKmppDg==",
+  "dgSpecHash": "eZsWCLsu6k+3861vJ6NGLy+4tRMCzA7rlK8o51yBHZZ5mhd9i3tM2fzfEEz73a8Xq+4Gewjjcy1wLHYBGpby6Q==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core\\中间件\\Middleware_CJL\\Middleware_CJL\\Middleware_CJL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

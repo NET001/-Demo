@@ -10,11 +10,8 @@ namespace App
     public class Startup
     {
         private readonly IConfiguration _configuration;
-
         public Startup(IConfiguration configuration) => _configuration = configuration;
-
         public void ConfigureServices(IServiceCollection services) => services.Configure<FoobarOptions>(_configuration);
-
         public void Configure(IApplicationBuilder app, IOptions<FoobarOptions> optionsAccessor)
         {
             var options = optionsAccessor.Value;
@@ -26,5 +23,4 @@ namespace App
             });
         }
     }
-
 }
