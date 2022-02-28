@@ -7,6 +7,13 @@ namespace Examples_CJL
     {
         static void Main(string[] args)
         {
+            Demo1();
+        }
+        /// <summary>
+        /// 获取进程cpu和内存运行情况
+        /// </summary>
+        static void Demo1()
+        {
             //获取当前程序的进程名称
             var name = Process.GetCurrentProcess().ProcessName;
             var cpuCounter = new PerformanceCounter("Process", "% Processor Time", name);
@@ -18,6 +25,8 @@ namespace Examples_CJL
             Console.WriteLine(cpu);
             Console.WriteLine(ram);
             Console.ReadKey();
+
         }
+      
     }
 }

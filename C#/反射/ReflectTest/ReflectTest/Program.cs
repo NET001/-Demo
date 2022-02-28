@@ -170,9 +170,20 @@ namespace ReflectTest
             action();
         }
         /// <summary>
-        /// 动态对象
+        /// 获取泛型的T
         /// </summary>
         static void Demo9()
+        {
+            List<Demo7Obj> demo7Objs = new List<Demo7Obj>();
+            if (typeof(Demo7Obj) == demo7Objs.GetType().GetGenericArguments()[0])
+            {
+
+            }
+        }
+        /// <summary>
+        /// 动态对象
+        /// </summary>
+        static void Demo10()
         {
             dynamic expObj = new ExpandoObject();
             expObj.FirstName = "Daffy";
@@ -190,6 +201,14 @@ namespace ReflectTest
                 Console.WriteLine(friend);
             }
         }
+        /// <summary>
+        /// 获取所有的策划哪个许继
+        /// </summary>
+        static void Demo11()
+        {
+            AppDomain.CurrentDomain.GetAssemblies();
+        }
+      
         class Demo7Obj
         {
             public string MyProperty1 { get; set; }

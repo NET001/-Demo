@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QntYDt4oN9YmSB1jUddtrfqTCMGT5ix1g3ZSImJP3OKF5SFnH3Oy5zNSs9OhjGHytQ4NMll1FMJKcvrB4fVnzw==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\02\\15\\S1507解析路由模式\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

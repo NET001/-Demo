@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eiKYC1BZ/sXC8pEr0/d34JIahEPEwYzOhYMqY+Dv4zbtY/AntleL/0vqnT13tCidFW4tAPl6Ra+KZxMFb5mh4Q==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\异常页\\ErrorPage\\ErrorPage\\ErrorPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

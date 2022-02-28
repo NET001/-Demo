@@ -110,8 +110,9 @@ namespace Middleware
         /// </summary>
         static void Demo5()
         {
-            Host
-                .CreateDefaultBuilder()
+            //获取一个默认构建的承载系统构建对象
+            Host.CreateDefaultBuilder()
+                //asp.net core框架配置
                 .ConfigureWebHostDefaults(builder => builder
                     .UseStartup<Startup>())
                 .Build()
@@ -145,6 +146,7 @@ namespace Middleware
                     //配置mvc处理管道
                     .Configure(app => app.
                         UseRouting()
+                        //控制器路由
                         .UseEndpoints(endpoints => endpoints.MapControllers())))
                 .Build()
                 .Run();

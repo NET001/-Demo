@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "swdorhgIXQzpDrTcT+gjt0aT4AJuu2nPECzJyh8xlgGgD6+tVFhXTMjLLVRnD3Oo/5Sb24ICHibK7Tl307+y2w==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\用来参考和研究\\net core3框架揭秘实例\\02\\15\\S1505个路径段由多个路由参数组成\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

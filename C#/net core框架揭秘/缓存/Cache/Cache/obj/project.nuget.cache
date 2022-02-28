@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8/mlHLLC6plB2syWNUMj4y3SC0czdOlpoBcSMBp3P2wUYr1kLNoMkFjTVjiTg9OXMBDgBIRUWeCZ5Cw0gW7kQ==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\缓存\\Cache\\Cache\\Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

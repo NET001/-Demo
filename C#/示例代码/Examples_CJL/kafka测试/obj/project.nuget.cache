@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLopo6/mvVCyq7Gtisun4ALu6dcMdPFYlFubcseY8470LvgdeclbTWALg2RPvdvXD8FiupZmzU72acgHPunYFQ==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\示例代码\\Examples_CJL\\kafka测试\\kafka测试.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

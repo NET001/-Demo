@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aKXRkKlJxPGT9c6FWj5/NcqRJ1+iUSx2fSk6gRr7zCXv/JVjrs9H2ATIZdkJbVb8yXD/zUTaLEyBqPI3qYW/lg==",
+  "dgSpecHash": "BUC4uf+W1ksFiO378SY/szfqc+xTQHQTzH4llpPRYML8yDB/YQvrn5J4vE2jKOswmVu1LFLeQU95X+MGbwTFwQ==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\Kafka\\Kafka_CJL\\Kafka_CJL\\Kafka_Usage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }
