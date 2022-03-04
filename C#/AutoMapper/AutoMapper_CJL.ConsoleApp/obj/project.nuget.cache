@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "GSAsWtzcJN5g9551QMiUsCvpbxEspyJhhONc31onoxccaT6PK/STgrCrJoE46/fTehbPG/rkrfeKFvb38Hr+Yg==",
+  "dgSpecHash": "azl1YCblewICtcsVd3XGNQybFClYmIsE/NlitqCMMM0J2e5cSRBDx9+ysg8A6sk04hOelzQ5U5UBs2034mfuBw==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ganwe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
