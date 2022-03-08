@@ -1,9 +1,9 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "e38008c3-1c3d-4708-80f2-37715a1350d6": {
-      "ProjectGuid": "e38008c3-1c3d-4708-80f2-37715a1350d6",
-      "DisplayName": "App",
+    "7e82d9b0-5c48-43da-b0b7-d6ace08b4b9d": {
+      "ProjectGuid": "7e82d9b0-5c48-43da-b0b7-d6ace08b4b9d",
+      "DisplayName": "Attestation",
       "ColorIndex": 0
     },
     "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {

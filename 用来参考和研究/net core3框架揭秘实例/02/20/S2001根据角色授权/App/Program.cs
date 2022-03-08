@@ -27,7 +27,11 @@ namespace App
             Host.CreateDefaultBuilder()
                 .ConfigureWebHostDefaults(builder => builder
                     .ConfigureServices(svcs => svcs
-                        .AddDbContext<UserDbContext>(options => options.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AuthorizationDemo;Trusted_Connection=True;MultipleActiveResultSets=true"))
+                        .AddDbContext<UserDbContext>(options => 
+                        options
+                        .UseSqlite($"Data Source=.\\base.db;Version=3;")
+                        //.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AuthorizationDemo;Trusted_Connection=True;MultipleActiveResultSets=true")
+                        )
                         .AddRouting()
                         .AddAuthorization()
                         .AddAuthentication(options => options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme).AddCookie())
