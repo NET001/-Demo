@@ -52,3 +52,9 @@ D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMa
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\ref\AutoMapper_CJL.ConsoleApp.dll
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.pdb
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.genruntimeconfig.cache
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
