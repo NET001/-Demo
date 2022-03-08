@@ -1,12 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "rDb5R8R9UO0XoIzmVL2eo0PpHCOOa2E0BY+wM5zQfQdiiusS0EY0+XB2soza0NQidK2yQi4bd13/6xg+ghGydg==",
+  "dgSpecHash": "eREkVoa4f/fG5xEqf4zNxkkWJJWQfHg1skdzWLc0WCoRb8Vi+f9d4ijDosX+7OrLQXMpBhykYRNnLvda9uubQw==",
   "success": true,
   "projectFilePath": "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CJL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\CJL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\CJL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\CJL\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

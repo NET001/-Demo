@@ -15,7 +15,12 @@
       "ProjectGuid": "d4378938-f888-42b6-aee6-88ae95f19fe1",
       "DisplayName": "kafka测试",
       "ColorIndex": 1
+    },
+    "8eb8feba-cfbd-4652-adaa-3ac851e9ff1d": {
+      "ProjectGuid": "8eb8feba-cfbd-4652-adaa-3ac851e9ff1d",
+      "DisplayName": "异步",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
