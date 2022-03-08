@@ -47,7 +47,6 @@ D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMa
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.AssemblyInfoInputs.cache
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.AssemblyInfo.cs
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.csproj.CoreCompileInputs.cache
-D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.csproj.CopyComplete
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.dll
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\ref\AutoMapper_CJL.ConsoleApp.dll
 D:\document\Dome\C#\AutoMapper\AutoMapper_CJL.ConsoleApp\obj\Debug\net5.0\AutoMapper_CJL.ConsoleApp.pdb
