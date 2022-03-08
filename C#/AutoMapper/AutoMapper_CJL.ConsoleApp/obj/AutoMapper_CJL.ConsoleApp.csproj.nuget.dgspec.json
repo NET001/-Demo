@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj": {}
+    "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj": {
+    "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
         "projectName": "AutoMapper_CJL.ConsoleApp",
-        "projectPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\obj\\",
+        "projectPath": "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

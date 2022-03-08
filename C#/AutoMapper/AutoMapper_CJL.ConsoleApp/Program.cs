@@ -8,7 +8,6 @@ namespace AutoMapper_CJL.ConsoleApp
     //教程https://www.cnblogs.com/gl1573/p/13098031.html
     class Program
     {
-
         static void Main(string[] args)
         {
             var config = new MapperConfiguration(cfg =>
@@ -45,7 +44,6 @@ namespace AutoMapper_CJL.ConsoleApp
                         result.DateTime = s.DateTime.ToString();
                         return result;
                     });
-
                 }
             );
             var mapper = config.CreateMapper();

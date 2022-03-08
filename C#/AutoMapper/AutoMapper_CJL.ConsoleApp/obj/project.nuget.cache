@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GSAsWtzcJN5g9551QMiUsCvpbxEspyJhhONc31onoxccaT6PK/STgrCrJoE46/fTehbPG/rkrfeKFvb38Hr+Yg==",
+  "dgSpecHash": "rDb5R8R9UO0XoIzmVL2eo0PpHCOOa2E0BY+wM5zQfQdiiusS0EY0+XB2soza0NQidK2yQi4bd13/6xg+ghGydg==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\框架学习\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
+  "projectFilePath": "D:\\document\\Dome\\C#\\AutoMapper\\AutoMapper_CJL.ConsoleApp\\AutoMapper_CJL.ConsoleApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ganwe\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\ganwe\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\CJL\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\CJL\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
