@@ -11,3 +11,4 @@ E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\异步\bin\Debug\netcoreapp3.1\�
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\异步\obj\Debug\netcoreapp3.1\异步.dll
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\异步\obj\Debug\netcoreapp3.1\异步.pdb
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\异步\obj\Debug\netcoreapp3.1\异步.genruntimeconfig.cache
+E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\异步\obj\Debug\netcoreapp3.1\异步.csproj.AssemblyReference.cache

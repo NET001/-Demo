@@ -109,7 +109,7 @@ namespace AutoMapper_CJL.ConsoleApp
         /// </summary>
         static void Demo5()
         {
-            var config = new MapperConfiguration(cfg => cfg.CreateMap(typeof(Source<>), typeof(Destination<>)));
+            MapperConfiguration config = new MapperConfiguration(cfg => cfg.CreateMap(typeof(Source<>), typeof(Destination<>)));
             IMapper mapper = config.CreateMapper();
             var source = new Source<int> { Value = 10 };
             var dest = mapper.Map<Source<int>, Destination<int>>(source);

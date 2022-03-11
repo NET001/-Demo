@@ -1,0 +1,68 @@
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.exe
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.deps.json
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.runtimeconfig.json
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\EF Core.pdb
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.dll
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.pdb
+E:\CJL_学习\Dome\C#\【0】待补充\EF Core\EF Core\EF Core\obj\Debug\netcoreapp3.1\EF Core.genruntimeconfig.cache

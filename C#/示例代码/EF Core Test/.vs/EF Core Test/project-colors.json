@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70ad7013-f23c-4fd3-bff9-d9e60323c358": {
+      "ProjectGuid": "70ad7013-f23c-4fd3-bff9-d9e60323c358",
+      "DisplayName": "EF Core Test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

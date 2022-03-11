@@ -1,0 +1,53 @@
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.exe
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.deps.json
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.runtimeconfig.json
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\EF Core Test.pdb
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.dll
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.pdb
+E:\CJL_学习\Dome\C#\示例代码\EF Core Test\EF Core Test\obj\Debug\netcoreapp3.1\EF Core Test.genruntimeconfig.cache

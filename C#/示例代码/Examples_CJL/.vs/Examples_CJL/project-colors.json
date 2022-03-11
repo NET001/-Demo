@@ -20,7 +20,17 @@
       "ProjectGuid": "8eb8feba-cfbd-4652-adaa-3ac851e9ff1d",
       "DisplayName": "异步",
       "ColorIndex": 2
+    },
+    "26d2accb-1e34-40d2-94cb-fb864f8ed1da": {
+      "ProjectGuid": "26d2accb-1e34-40d2-94cb-fb864f8ed1da",
+      "DisplayName": "LinqTest",
+      "ColorIndex": 3
+    },
+    "f37a311a-d887-4c9d-b84f-3eda8080764f": {
+      "ProjectGuid": "f37a311a-d887-4c9d-b84f-3eda8080764f",
+      "DisplayName": "EF Core Test",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
