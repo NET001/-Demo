@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNPMLBcBhdxNxbMDVlX9GcRVVbWg/2V9OCWhB8SvHGGcN9nKVk1D0QesaN6XQZhA3P87zor+GDA0rminenQ/9w==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\示例代码\\Examples_CJL\\格式转换\\格式转换.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

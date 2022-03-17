@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "杂项文件",
       "ColorIndex": -1
+    },
+    "f15caea9-903a-4d62-9c98-bf496aa743c2": {
+      "ProjectGuid": "f15caea9-903a-4d62-9c98-bf496aa743c2",
+      "DisplayName": "SocketClient_CJL",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

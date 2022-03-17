@@ -1,0 +1,17 @@
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\SelfHost_CJL.exe.config
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\SelfHost_CJL.exe
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\SelfHost_CJL.pdb
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\Newtonsoft.Json.dll
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Net.Http.Formatting.dll
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Web.Http.dll
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Web.Http.SelfHost.dll
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\Newtonsoft.Json.xml
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Net.Http.Formatting.xml
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Web.Http.xml
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\bin\Debug\System.Web.Http.SelfHost.xml
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.csproj.SuggestedBindingRedirects.cache
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.csproj.CopyComplete
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.exe
+E:\CJL_学习\Dome\C#\SelfHost\SelfHost_CJL\SelfHost_CJL\obj\Debug\SelfHost_CJL.pdb

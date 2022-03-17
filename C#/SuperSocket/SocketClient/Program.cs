@@ -19,8 +19,9 @@ namespace SocketClient_CJL
             {
                 //实例化socket
                 socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                var ippoint = new IPEndPoint(IPAddress.Any, int.Parse("4567"));
                 //连接服务器
-                socket.Connect(new IPEndPoint(IPAddress.Parse("127.0.0.1"), int.Parse("4567")));
+                socket.Connect(ippoint);
                 thread = new Thread(StartReceive);
                 thread.IsBackground = true;
                 thread.Start(socket);

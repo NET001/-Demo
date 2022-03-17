@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba5feefc-0cd9-42ff-9690-48d95aea4693": {
+      "ProjectGuid": "ba5feefc-0cd9-42ff-9690-48d95aea4693",
+      "DisplayName": "TCPClient_CJL",
+      "ColorIndex": 0
+    },
+    "d334f2fd-1419-4a0f-8852-50720f1c84ce": {
+      "ProjectGuid": "d334f2fd-1419-4a0f-8852-50720f1c84ce",
+      "DisplayName": "Common_CJL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

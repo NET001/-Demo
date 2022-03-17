@@ -30,7 +30,12 @@
       "ProjectGuid": "f37a311a-d887-4c9d-b84f-3eda8080764f",
       "DisplayName": "EF Core Test",
       "ColorIndex": 4
+    },
+    "3ec75db2-11d4-4732-b379-9ebcbf78c4d2": {
+      "ProjectGuid": "3ec75db2-11d4-4732-b379-9ebcbf78c4d2",
+      "DisplayName": "格式转换",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

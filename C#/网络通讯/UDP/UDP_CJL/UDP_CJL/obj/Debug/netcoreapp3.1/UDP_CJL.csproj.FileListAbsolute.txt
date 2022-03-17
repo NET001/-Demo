@@ -1,0 +1,14 @@
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.exe
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.deps.json
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.runtimeconfig.json
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.runtimeconfig.dev.json
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.dll
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\bin\Debug\netcoreapp3.1\UDP_CJL.pdb
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.csproj.AssemblyReference.cache
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.AssemblyInfoInputs.cache
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.AssemblyInfo.cs
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.csproj.CoreCompileInputs.cache
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.dll
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.pdb
+E:\CJL_学习\Dome\C#\网络通讯\UDP\UDP_CJL\UDP_CJL\obj\Debug\netcoreapp3.1\UDP_CJL.genruntimeconfig.cache

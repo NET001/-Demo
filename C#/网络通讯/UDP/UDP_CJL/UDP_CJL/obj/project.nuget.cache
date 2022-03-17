@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJAQ7VNwS48WDM5UvYzqPxq7lm+wqBa69R08pl60xe/S+icgNE2YwSFQq2sZ9rd4xUUQmyI+ULLUtpzqiCuWkQ==",
+  "success": true,
+  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\网络通讯\\UDP\\UDP_CJL\\UDP_CJL\\UDP_CJL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

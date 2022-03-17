@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xe6h2PDoLS3RldfQ7kQrv3jC1/8uL8DjgrK3aByPnbRcOkvWJYyt91aY9QffZoGFzmYS920zRVbEJxVpYbIFmA==",
+  "dgSpecHash": "LlSvtpVCeKZl+ztjd7rqByNpvoraQ8wp68tIa/SL+NT4yqJLYY5Vvc2s71Z17T7wfdtg4ysTs0O5ieLF1EucRg==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\网络通讯\\TCP\\TCP_CJL\\TCPServer_CJL\\TCPServer_CJL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
