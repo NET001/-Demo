@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\ExecuteSh_CJL.csproj": {}
+    "E:\\CJL_工作\\项目\\华为人脸识别\\src\\ADO.NET_CJL\\ADO.NET_CJL\\ADO.NET_CJL.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\ExecuteSh_CJL.csproj": {
+    "E:\\CJL_工作\\项目\\华为人脸识别\\src\\ADO.NET_CJL\\ADO.NET_CJL\\ADO.NET_CJL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\ExecuteSh_CJL.csproj",
-        "projectName": "ExecuteSh_CJL",
-        "projectPath": "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\ExecuteSh_CJL.csproj",
+        "projectUniqueName": "E:\\CJL_工作\\项目\\华为人脸识别\\src\\ADO.NET_CJL\\ADO.NET_CJL\\ADO.NET_CJL.csproj",
+        "projectName": "ADO.NET_CJL",
+        "projectPath": "E:\\CJL_工作\\项目\\华为人脸识别\\src\\ADO.NET_CJL\\ADO.NET_CJL\\ADO.NET_CJL.csproj",
         "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\obj\\",
+        "outputPath": "E:\\CJL_工作\\项目\\华为人脸识别\\src\\ADO.NET_CJL\\ADO.NET_CJL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

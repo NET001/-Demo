@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AHNo0hs2e22XqzXkQua4c95HkRMIw9t2zvFq5wNBiO13PDr7qnBXzgqdlCXL80QRSKiF7EE6zB8iRzedOCCSJw==",
+  "dgSpecHash": "3oBswV4nlzF8g+3ffw4pVq+y4ScDQjb9bp1bVtzr2JZ0DR/oObvI+maC3sTWUuwS5km0MqTXzPgVMy7btDD8rA==",
   "success": true,
   "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\执行sh\\ExecuteSh_CJL\\ExecuteSh_CJL\\ExecuteSh_CJL.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
