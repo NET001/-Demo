@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj": {}
+    "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj": {}
   },
   "projects": {
-    "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj": {
+    "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
+        "projectUniqueName": "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
         "projectName": "Route",
-        "projectPath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
-        "packagesPath": "C:\\Users\\ganwe\\.nuget\\packages\\",
-        "outputPath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\obj\\",
+        "projectPath": "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
+        "packagesPath": "C:\\Users\\CJL\\.nuget\\packages\\",
+        "outputPath": "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\software\\vs2019\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ganwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CJL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "E:\\LocalNuget": {},
-          "http://nuget.ganweisoft.net": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.22, 3.1.22]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

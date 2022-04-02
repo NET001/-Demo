@@ -49,7 +49,6 @@ namespace ConsoleApp1
             //运行
             host.Run();
             //host.AddEquipsDefault();
-
         }
     }
 }

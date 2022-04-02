@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mcVpP2L0za/A+Vp537ZO1RxhHyJEuuDe2WrlFSPcjSxbTOONfSwEUOKgIsWnUXWCbwhgEdrfTRIjFv1IWF0Eiw==",
+  "dgSpecHash": "FhTGSzRS5xz3V9QVUOO7jP/Skk3vPCP2bQ4WxQy7LIrFfeCMMKURmUMcpP1Htf2LxXpW3T40z/D1Zvj5ODW/Kg==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\document\\Dome\\C#\\net core框架揭秘\\路由\\Route\\Route\\Route.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

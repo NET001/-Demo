@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "caKpUNE09HsMqk84PwTxLzVR61G5QtEs6wZyEJrE26A7i0HOvJ07Fu09Ir/igR4JBqiafRrAZqLlL/iOGEAJIQ==",
+  "dgSpecHash": "V6CUSAKu5l+7lY6I/Pv5AX3SRrq8+y7G+C5C934VXD99pHx0QPZTpg2F/LIL3cyi5gL9lhoov1rNDTxrqDLAjQ==",
   "success": true,
-  "projectFilePath": "E:\\CJL_工作\\其他\\南向框架Demo\\GWSouthCoreDemo.STD\\【3.0】GWSouthCoreDemo.STD\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\document\\Dome\\C#\\GWSouthCoreDemo.STD\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
