@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZLO/dIgGUpdsx8Chq+ZQaiRu5ConDXIQNNZOGFUR2UmXaHYOpkEs5YftUiZBy3zw+nE44JfwSwDTFKoRwfHbg==",
+  "dgSpecHash": "zYSE/sr07vSE8mP2EvDuxd9wZjSBoSJIJRlQPXf5+R1mTnwkZCDZVPvMuZzk8ckKlRYaRhKVriXzqKXk1Rey6A==",
   "success": true,
-  "projectFilePath": "E:\\CJL_学习\\Dome\\C#\\示例代码\\Examples_CJL\\Linq\\LinqTest.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ganwe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\document\\Demo\\C#\\示例代码\\Examples_CJL\\Linq\\LinqTest.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

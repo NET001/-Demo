@@ -11,3 +11,17 @@ E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\Lin
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.dll
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.pdb
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.genruntimeconfig.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.exe
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.deps.json
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.json
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.runtimeconfig.dev.json
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\bin\Debug\netcoreapp3.1\LinqTest.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.csproj.AssemblyReference.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfoInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.AssemblyInfo.cs
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.csproj.CoreCompileInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\Linq\obj\Debug\netcoreapp3.1\LinqTest.genruntimeconfig.cache

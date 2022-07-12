@@ -1,0 +1,15 @@
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\bin\Debug\net6.0\引用类型测试.exe
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\bin\Debug\net6.0\引用类型测试.deps.json
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\bin\Debug\net6.0\引用类型测试.runtimeconfig.json
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\bin\Debug\net6.0\引用类型测试.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\bin\Debug\net6.0\引用类型测试.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.csproj.AssemblyReference.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.AssemblyInfoInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.AssemblyInfo.cs
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.csproj.CoreCompileInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\refint\引用类型测试.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\引用类型测试.genruntimeconfig.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\引用类型测试\obj\Debug\net6.0\ref\引用类型测试.dll

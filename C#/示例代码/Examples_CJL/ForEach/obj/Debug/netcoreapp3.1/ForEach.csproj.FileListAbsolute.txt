@@ -1,0 +1,14 @@
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.AssemblyReference.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache

@@ -1,6 +1,12 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
+using Microsoft.EntityFrameworkCore.Query;
+using System.Reflection;
 using System.Threading;
 
 namespace EF_Core_Test
@@ -8,6 +14,12 @@ namespace EF_Core_Test
     internal class Program
     {
         static void Main(string[] args)
+        {
+            Demo2();
+            Console.ReadLine();
+        }
+
+        static void Demo1()
         {
             using (MyDbContext dbContext = new MyDbContext())
             {
@@ -21,6 +33,15 @@ namespace EF_Core_Test
                     Console.WriteLine("----");
                     Thread.Sleep(2000);
                 }
+            }
+
+        }
+        static void Demo2()
+        {
+            using (MyDbContext dbContext = new MyDbContext())
+            {
+                var t1 = dbContext.TableTests.Where(t => t.Name.Contains("CJL")).ToSql();
+                Console.WriteLine(t1);
             }
         }
     }
@@ -60,5 +81,28 @@ namespace EF_Core_Test
         public int Id { get; set; }
         public string Name { get; set; }
 
+    }
+
+
+    static class extend
+    {
+        public static string ToSql<TEntity>(this IQueryable<TEntity> query) where TEntity : class
+        {
+            using (IEnumerator<TEntity> obj = query.Provider.Execute<IEnumerable<TEntity>>(query.Expression).GetEnumerator())
+            {
+                object obj2 = obj.Private("_relationalCommandCache");
+                SelectExpression selectExpression = obj2.Private<SelectExpression>("_selectExpression");
+                return obj2.Private<IQuerySqlGeneratorFactory>("_querySqlGeneratorFactory").Create().GetCommand(selectExpression)
+                    .CommandText;
+            }
+        }
+        public static object Private(this object obj, string privateField)
+        {
+            return obj?.GetType().GetField(privateField, BindingFlags.Instance | BindingFlags.NonPublic)?.GetValue(obj);
+        }
+        public static T Private<T>(this object obj, string privateField)
+        {
+            return (T)(obj?.GetType().GetField(privateField, BindingFlags.Instance | BindingFlags.NonPublic)?.GetValue(obj));
+        }
     }
 }

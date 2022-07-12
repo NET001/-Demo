@@ -11,3 +11,17 @@ E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreap
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.dll
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.pdb
 E:\CJL_学习\Dome\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.genruntimeconfig.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.exe
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.deps.json
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.runtimeconfig.json
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.runtimeconfig.dev.json
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\bin\Debug\netcoreapp3.1\格式转换.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.csproj.AssemblyReference.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.GeneratedMSBuildEditorConfig.editorconfig
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.AssemblyInfoInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.AssemblyInfo.cs
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.csproj.CoreCompileInputs.cache
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.dll
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.pdb
+D:\document\Demo\C#\示例代码\Examples_CJL\格式转换\obj\Debug\netcoreapp3.1\格式转换.genruntimeconfig.cache

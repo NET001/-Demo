@@ -8,7 +8,7 @@ namespace LinqTest
     {
         static void Main(string[] args)
         {
-            Demo2();
+            Demo3();
         }
 
         //需求:筛选出LastModificationTime发生变化的数据
@@ -68,7 +68,18 @@ namespace LinqTest
                      befoData = b
                  });
         }
+        static void Demo3()
+        {
+            List<string> list = new List<string>() {
+                "1","2","3"
+            };
+            var listWhere = list.Where(t => t == "1");
+            listWhere.ToList();
+            Console.ReadKey();
+        }
     }
+
+
     class NorthTerminal
     {
         public int Id { get; set; }
